@@ -1,0 +1,4340 @@
+{
+    "39de45": {
+        "callsign": "TVF93NR ",
+        "country": "France",
+        "velocity": 199.38,
+        "geo_altitude": 12496.8
+    },
+    "39de44": {
+        "callsign": "TVF40QU ",
+        "country": "France",
+        "velocity": 195.37,
+        "geo_altitude": 10538.46
+    },
+    "4bc8c4": {
+        "callsign": "PGT1102 ",
+        "country": "Turkey",
+        "velocity": 238.52,
+        "geo_altitude": 11620.5
+    },
+    "511173": {
+        "callsign": "NYX372C ",
+        "country": "Estonia",
+        "velocity": 144.26,
+        "geo_altitude": 5821.68
+    },
+    "3442cb": {
+        "callsign": "ANE24ZN ",
+        "country": "Spain",
+        "velocity": 137.33,
+        "geo_altitude": 3307.08
+    },
+    "51118b": {
+        "callsign": "VPC004  ",
+        "country": "Estonia",
+        "velocity": 261.06,
+        "geo_altitude": 12161.52
+    },
+    "3442c2": {
+        "callsign": "ANE44PH ",
+        "country": "Spain",
+        "velocity": 109.75,
+        "geo_altitude": 1066.8
+    },
+    "4acb41": {
+        "callsign": "SAS38R  ",
+        "country": "Sweden",
+        "velocity": 207.16,
+        "geo_altitude": 12527.28
+    },
+    "440219": {
+        "callsign": "EJU75FW ",
+        "country": "Austria",
+        "velocity": 73.45,
+        "geo_altitude": 175.26
+    },
+    "440224": {
+        "callsign": "EJU6840 ",
+        "country": "Austria",
+        "velocity": 73.45,
+        "geo_altitude": 144.78
+    },
+    "34448d": {
+        "callsign": "IBS1719 ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "4520ce": {
+        "callsign": "JAF8LY  ",
+        "country": "Bulgaria",
+        "velocity": 262.29,
+        "geo_altitude": 12184.38
+    },
+    "344481": {
+        "callsign": "IBE08EK ",
+        "country": "Spain",
+        "velocity": 144.91,
+        "geo_altitude": 3627.12
+    },
+    "343141": {
+        "callsign": "IBS16QA ",
+        "country": "Spain",
+        "velocity": 6.43,
+        "geo_altitude": null
+    },
+    "471f6d": {
+        "callsign": "WMT1LH  ",
+        "country": "Hungary",
+        "velocity": 7.72,
+        "geo_altitude": null
+    },
+    "471f6e": {
+        "callsign": "WMT6155 ",
+        "country": "Hungary",
+        "velocity": 212.73,
+        "geo_altitude": 11285.22
+    },
+    "344459": {
+        "callsign": "AEA26AR ",
+        "country": "Spain",
+        "velocity": 77.82,
+        "geo_altitude": 274.32
+    },
+    "344455": {
+        "callsign": "IBS15UW ",
+        "country": "Spain",
+        "velocity": 10.29,
+        "geo_altitude": null
+    },
+    "471f68": {
+        "callsign": "WZZ52   ",
+        "country": "Hungary",
+        "velocity": 202.54,
+        "geo_altitude": 8679.18
+    },
+    "344449": {
+        "callsign": "IBE04KL ",
+        "country": "Spain",
+        "velocity": 3.86,
+        "geo_altitude": null
+    },
+    "4400b2": {
+        "callsign": "EJU95AE ",
+        "country": "Austria",
+        "velocity": 74.29,
+        "geo_altitude": 274.32
+    },
+    "471f41": {
+        "callsign": "WZZ2705 ",
+        "country": "Hungary",
+        "velocity": 67.64,
+        "geo_altitude": 624.84
+    },
+    "4400dc": {
+        "callsign": "EJU69VE ",
+        "country": "Austria",
+        "velocity": 208.93,
+        "geo_altitude": 10165.08
+    },
+    "471f58": {
+        "callsign": "WZZ4950 ",
+        "country": "Hungary",
+        "velocity": 6.69,
+        "geo_altitude": null
+    },
+    "34440b": {
+        "callsign": "VLG9VN  ",
+        "country": "Spain",
+        "velocity": 210.96,
+        "geo_altitude": 9723.12
+    },
+    "344409": {
+        "callsign": "VLG32QK ",
+        "country": "Spain",
+        "velocity": 200.02,
+        "geo_altitude": 11277.6
+    },
+    "4402a3": {
+        "callsign": "AUA447  ",
+        "country": "Austria",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3430cc": {
+        "callsign": "VLG5YW  ",
+        "country": "Spain",
+        "velocity": 217.93,
+        "geo_altitude": 10599.42
+    },
+    "50038f": {
+        "callsign": "DWC052  ",
+        "country": "San Marino",
+        "velocity": 155.87,
+        "geo_altitude": 5631.18
+    },
+    "3443d4": {
+        "callsign": "VLG61XZ ",
+        "country": "Spain",
+        "velocity": 71.14,
+        "geo_altitude": 106.68
+    },
+    "3443d3": {
+        "callsign": "VLG70AN ",
+        "country": "Spain",
+        "velocity": 8.23,
+        "geo_altitude": null
+    },
+    "471fa4": {
+        "callsign": "WMT7388 ",
+        "country": "Hungary",
+        "velocity": 73.07,
+        "geo_altitude": 213.36
+    },
+    "471fa0": {
+        "callsign": "WZZ6674 ",
+        "country": "Hungary",
+        "velocity": 140.11,
+        "geo_altitude": 3863.34
+    },
+    "44034b": {
+        "callsign": "EJU82TX ",
+        "country": "Austria",
+        "velocity": 224.25,
+        "geo_altitude": 12207.24
+    },
+    "34324f": {
+        "callsign": "IBE04ZW ",
+        "country": "Spain",
+        "velocity": 102.89,
+        "geo_altitude": 1371.6
+    },
+    "4401e9": {
+        "callsign": "EJU32TL ",
+        "country": "Austria",
+        "velocity": 182.64,
+        "geo_altitude": 6964.68
+    },
+    "34454b": {
+        "callsign": "VLG9LA  ",
+        "country": "Spain",
+        "velocity": 241.29,
+        "geo_altitude": 11262.36
+    },
+    "34454a": {
+        "callsign": "VLG7QY  ",
+        "country": "Spain",
+        "velocity": 72.7,
+        "geo_altitude": 266.7
+    },
+    "344501": {
+        "callsign": "VLG88FU ",
+        "country": "Spain",
+        "velocity": 225.9,
+        "geo_altitude": 11605.26
+    },
+    "440065": {
+        "callsign": "EJU7050 ",
+        "country": "Austria",
+        "velocity": 200.89,
+        "geo_altitude": 10157.46
+    },
+    "44003b": {
+        "callsign": "LDX69C  ",
+        "country": "Austria",
+        "velocity": 235.89,
+        "geo_altitude": 13083.54
+    },
+    "440053": {
+        "callsign": "EJU73BK ",
+        "country": "Austria",
+        "velocity": 237.55,
+        "geo_altitude": 12245.34
+    },
+    "44006e": {
+        "callsign": "AUA404  ",
+        "country": "Austria",
+        "velocity": 237.61,
+        "geo_altitude": 10431.78
+    },
+    "3453c1": {
+        "callsign": "AEA59RM ",
+        "country": "Spain",
+        "velocity": 186.73,
+        "geo_altitude": 7353.3
+    },
+    "3453c3": {
+        "callsign": "VLG3YE  ",
+        "country": "Spain",
+        "velocity": 121.22,
+        "geo_altitude": 1988.82
+    },
+    "47c1f7": {
+        "callsign": "NOZ22R  ",
+        "country": "Norway",
+        "velocity": 189.05,
+        "geo_altitude": 6781.8
+    },
+    "344197": {
+        "callsign": "ANE88MB ",
+        "country": "Spain",
+        "velocity": 9.77,
+        "geo_altitude": null
+    },
+    "344195": {
+        "callsign": "ANE45CY ",
+        "country": "Spain",
+        "velocity": 66.53,
+        "geo_altitude": 266.7
+    },
+    "344297": {
+        "callsign": "AEA19VM ",
+        "country": "Spain",
+        "velocity": 144.3,
+        "geo_altitude": 4015.74
+    },
+    "344295": {
+        "callsign": "ANE37CL ",
+        "country": "Spain",
+        "velocity": 150.35,
+        "geo_altitude": 2857.5
+    },
+    "34558f": {
+        "callsign": "AEA62PZ ",
+        "country": "Spain",
+        "velocity": 212.99,
+        "geo_altitude": 12397.74
+    },
+    "471d6e": {
+        "callsign": "WMT1EJ  ",
+        "country": "Hungary",
+        "velocity": 219.05,
+        "geo_altitude": 11605.26
+    },
+    "345597": {
+        "callsign": "ANE22NP ",
+        "country": "Spain",
+        "velocity": 123.52,
+        "geo_altitude": 2415.54
+    },
+    "38111a": {
+        "callsign": "FWWDJ   ",
+        "country": "France",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "a6f04c": {
+        "callsign": "VJA546  ",
+        "country": "United States",
+        "velocity": 0.06,
+        "geo_altitude": null
+    },
+    "471d5a": {
+        "callsign": "WZZ6UN  ",
+        "country": "Hungary",
+        "velocity": 191.56,
+        "geo_altitude": 7315.2
+    },
+    "34554d": {
+        "callsign": "ECCZO   ",
+        "country": "Spain",
+        "velocity": 51.67,
+        "geo_altitude": 967.74
+    },
+    "345558": {
+        "callsign": "GES641R ",
+        "country": "Spain",
+        "velocity": 124.19,
+        "geo_altitude": 1584.96
+    },
+    "344217": {
+        "callsign": "AEA78ZG ",
+        "country": "Spain",
+        "velocity": 138.04,
+        "geo_altitude": 6507.48
+    },
+    "344218": {
+        "callsign": "ANE1082 ",
+        "country": "Spain",
+        "velocity": 72.02,
+        "geo_altitude": 701.04
+    },
+    "345543": {
+        "callsign": "ANE95NT ",
+        "country": "Spain",
+        "velocity": 192.57,
+        "geo_altitude": 9822.18
+    },
+    "452165": {
+        "callsign": "DAH1012 ",
+        "country": "Bulgaria",
+        "velocity": 220.06,
+        "geo_altitude": 11605.26
+    },
+    "440179": {
+        "callsign": "EJU36YR ",
+        "country": "Austria",
+        "velocity": 207.66,
+        "geo_altitude": 10949.94
+    },
+    "440175": {
+        "callsign": "EJU4787 ",
+        "country": "Austria",
+        "velocity": 197.16,
+        "geo_altitude": 11856.72
+    },
+    "440132": {
+        "callsign": "EJU7108 ",
+        "country": "Austria",
+        "velocity": 0.9,
+        "geo_altitude": null
+    },
+    "471dc0": {
+        "callsign": "WZZ4404 ",
+        "country": "Hungary",
+        "velocity": 221.64,
+        "geo_altitude": 11315.7
+    },
+    "300a5b": {
+        "callsign": "SLJ101  ",
+        "country": "Italy",
+        "velocity": 203.17,
+        "geo_altitude": 12550.14
+    },
+    "452134": {
+        "callsign": "DAH1542 ",
+        "country": "Bulgaria",
+        "velocity": 220.08,
+        "geo_altitude": 11620.5
+    },
+    "471db5": {
+        "callsign": "WZZ114  ",
+        "country": "Hungary",
+        "velocity": 1.03,
+        "geo_altitude": null
+    },
+    "4bb2b0": {
+        "callsign": "THY1DB  ",
+        "country": "Turkey",
+        "velocity": 256.91,
+        "geo_altitude": 10934.7
+    },
+    "440115": {
+        "callsign": "EJU63EF ",
+        "country": "Austria",
+        "velocity": 73.95,
+        "geo_altitude": 144.78
+    },
+    "300a26": {
+        "callsign": "IWATT   ",
+        "country": "Italy",
+        "velocity": 283.35,
+        "geo_altitude": 14912.34
+    },
+    "4892c2": {
+        "callsign": "ENT8BA  ",
+        "country": "Poland",
+        "velocity": 237.89,
+        "geo_altitude": 10248.9
+    },
+    "34569a": {
+        "callsign": "VOE70FH ",
+        "country": "Spain",
+        "velocity": 206.37,
+        "geo_altitude": 10576.56
+    },
+    "345691": {
+        "callsign": "IBE08BB ",
+        "country": "Spain",
+        "velocity": 121.99,
+        "geo_altitude": 2278.38
+    },
+    "34434d": {
+        "callsign": "F07     ",
+        "country": "Spain",
+        "velocity": 4.12,
+        "geo_altitude": null
+    },
+    "345686": {
+        "callsign": "IBS15QJ ",
+        "country": "Spain",
+        "velocity": 198.08,
+        "geo_altitude": 9860.28
+    },
+    "345688": {
+        "callsign": "ANE72SM ",
+        "country": "Spain",
+        "velocity": 2.57,
+        "geo_altitude": null
+    },
+    "344346": {
+        "callsign": "IBE03GR ",
+        "country": "Spain",
+        "velocity": 249.07,
+        "geo_altitude": 11369.04
+    },
+    "39dd01": {
+        "callsign": "TVF14QM ",
+        "country": "France",
+        "velocity": 138.79,
+        "geo_altitude": 2849.88
+    },
+    "39dd00": {
+        "callsign": "TVF43MN ",
+        "country": "France",
+        "velocity": 207.32,
+        "geo_altitude": 11902.44
+    },
+    "3451da": {
+        "callsign": "ANE1183 ",
+        "country": "Spain",
+        "velocity": 242.61,
+        "geo_altitude": 10980.42
+    },
+    "3451d8": {
+        "callsign": "ANE62NC ",
+        "country": "Spain",
+        "velocity": 178.63,
+        "geo_altitude": 3764.28
+    },
+    "3451d9": {
+        "callsign": "ANE79CP ",
+        "country": "Spain",
+        "velocity": 260.15,
+        "geo_altitude": 9342.12
+    },
+    "3451d4": {
+        "callsign": "VLG3009 ",
+        "country": "Spain",
+        "velocity": 253,
+        "geo_altitude": 11567.16
+    },
+    "3451d5": {
+        "callsign": "VLG8944 ",
+        "country": "Spain",
+        "velocity": 230.52,
+        "geo_altitude": 11711.94
+    },
+    "02010e": {
+        "callsign": "RAM1402 ",
+        "country": "Morocco",
+        "velocity": 153.22,
+        "geo_altitude": 4937.76
+    },
+    "02010d": {
+        "callsign": "MAC374F ",
+        "country": "Morocco",
+        "velocity": 173.98,
+        "geo_altitude": 6705.6
+    },
+    "020111": {
+        "callsign": "RAM1668 ",
+        "country": "Morocco",
+        "velocity": 4.12,
+        "geo_altitude": null
+    },
+    "020110": {
+        "callsign": "RAM794M ",
+        "country": "Morocco",
+        "velocity": 237.6,
+        "geo_altitude": 11582.4
+    },
+    "020100": {
+        "callsign": "RAM1436 ",
+        "country": "Morocco",
+        "velocity": 127.15,
+        "geo_altitude": 4259.58
+    },
+    "3464cc": {
+        "callsign": "EAX2I   ",
+        "country": "Spain",
+        "velocity": 37.33,
+        "geo_altitude": 883.92
+    },
+    "4bb292": {
+        "callsign": "THY25G  ",
+        "country": "Turkey",
+        "velocity": 238.09,
+        "geo_altitude": 10706.1
+    },
+    "020175": {
+        "callsign": "MAC386  ",
+        "country": "Morocco",
+        "velocity": 198,
+        "geo_altitude": 11323.32
+    },
+    "020140": {
+        "callsign": "MAC397  ",
+        "country": "Morocco",
+        "velocity": 125.19,
+        "geo_altitude": 1676.4
+    },
+    "020139": {
+        "callsign": "RAM982  ",
+        "country": "Morocco",
+        "velocity": 159.99,
+        "geo_altitude": 3992.88
+    },
+    "34528a": {
+        "callsign": "ECMLY   ",
+        "country": "Spain",
+        "velocity": 8.13,
+        "geo_altitude": 205.74
+    },
+    "020121": {
+        "callsign": "RAM210B ",
+        "country": "Morocco",
+        "velocity": 249.21,
+        "geo_altitude": 12664.44
+    },
+    "4912d5": {
+        "callsign": "RVP954  ",
+        "country": "Portugal",
+        "velocity": 87.96,
+        "geo_altitude": 2537.46
+    },
+    "345281": {
+        "callsign": "MEECMMQ ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": 53.34
+    },
+    "02013c": {
+        "callsign": "RAM231  ",
+        "country": "Morocco",
+        "velocity": 234.97,
+        "geo_altitude": 12542.52
+    },
+    "02013a": {
+        "callsign": "RAM970H ",
+        "country": "Morocco",
+        "velocity": 169.61,
+        "geo_altitude": 4152.9
+    },
+    "344043": {
+        "callsign": "7777XPML",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "346691": {
+        "callsign": "VLG3KT  ",
+        "country": "Spain",
+        "velocity": 250.74,
+        "geo_altitude": 11620.5
+    },
+    "346690": {
+        "callsign": "VLG10HP ",
+        "country": "Spain",
+        "velocity": 211.17,
+        "geo_altitude": 11269.98
+    },
+    "345353": {
+        "callsign": "AEA1684 ",
+        "country": "Spain",
+        "velocity": 9.26,
+        "geo_altitude": null
+    },
+    "02019d": {
+        "callsign": "MAC115B ",
+        "country": "Morocco",
+        "velocity": 260.07,
+        "geo_altitude": 12184.38
+    },
+    "346648": {
+        "callsign": "VOE92NN ",
+        "country": "Spain",
+        "velocity": 217.55,
+        "geo_altitude": 11269.98
+    },
+    "345318": {
+        "callsign": "IBE03KK ",
+        "country": "Spain",
+        "velocity": 251.72,
+        "geo_altitude": 10393.68
+    },
+    "345314": {
+        "callsign": "VLG3263 ",
+        "country": "Spain",
+        "velocity": 259.64,
+        "geo_altitude": 11551.92
+    },
+    "896314": {
+        "callsign": "UAE5M   ",
+        "country": "United Arab Emirates",
+        "velocity": 234.83,
+        "geo_altitude": 11300.46
+    },
+    "0200ed": {
+        "callsign": "RAM740X ",
+        "country": "Morocco",
+        "velocity": 263.1,
+        "geo_altitude": 12207.24
+    },
+    "0200ec": {
+        "callsign": "RAM732M ",
+        "country": "Morocco",
+        "velocity": 210.62,
+        "geo_altitude": 8130.54
+    },
+    "0200f8": {
+        "callsign": "RAM796L ",
+        "country": "Morocco",
+        "velocity": 5.14,
+        "geo_altitude": null
+    },
+    "346614": {
+        "callsign": "VOE75PK ",
+        "country": "Spain",
+        "velocity": 193.15,
+        "geo_altitude": 5699.76
+    },
+    "346612": {
+        "callsign": "VOE65LF ",
+        "country": "Spain",
+        "velocity": 218.61,
+        "geo_altitude": 10660.38
+    },
+    "0200ae": {
+        "callsign": "RAM604P ",
+        "country": "Morocco",
+        "velocity": 244.91,
+        "geo_altitude": 11590.02
+    },
+    "48922b": {
+        "callsign": "ENT9GT  ",
+        "country": "Poland",
+        "velocity": 251.22,
+        "geo_altitude": 11590.02
+    },
+    "3452c7": {
+        "callsign": "ANE87JM ",
+        "country": "Spain",
+        "velocity": 173.8,
+        "geo_altitude": 6934.2
+    },
+    "3452c8": {
+        "callsign": "ANE2526 ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "020066": {
+        "callsign": "RAM714T ",
+        "country": "Morocco",
+        "velocity": 227.61,
+        "geo_altitude": 10957.56
+    },
+    "344099": {
+        "callsign": "VLG438P ",
+        "country": "Spain",
+        "velocity": 210.06,
+        "geo_altitude": 5257.8
+    },
+    "34538e": {
+        "callsign": "AEA7317 ",
+        "country": "Spain",
+        "velocity": 6.94,
+        "geo_altitude": null
+    },
+    "4d02be": {
+        "callsign": "JFA75C  ",
+        "country": "Luxembourg",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "344156": {
+        "callsign": "VLG9AZ  ",
+        "country": "Spain",
+        "velocity": 264.52,
+        "geo_altitude": 11536.68
+    },
+    "02008b": {
+        "callsign": "RAM960U ",
+        "country": "Morocco",
+        "velocity": 247,
+        "geo_altitude": 11605.26
+    },
+    "020095": {
+        "callsign": "RAM222B ",
+        "country": "Morocco",
+        "velocity": 266.01,
+        "geo_altitude": 10934.7
+    },
+    "505a7d": {
+        "callsign": "OMS209  ",
+        "country": "",
+        "velocity": 59.83,
+        "geo_altitude": 990.6
+    },
+    "406870": {
+        "callsign": "SPAROW2 ",
+        "country": "United Kingdom",
+        "velocity": 63.32,
+        "geo_altitude": 373.38
+    },
+    "491470": {
+        "callsign": "ADM431S ",
+        "country": "Portugal",
+        "velocity": 41.7,
+        "geo_altitude": 1188.72
+    },
+    "3475c9": {
+        "callsign": "TAP781  ",
+        "country": "Spain",
+        "velocity": 205.19,
+        "geo_altitude": 9235.44
+    },
+    "4910ed": {
+        "callsign": "RTV2M   ",
+        "country": "Portugal",
+        "velocity": 35.5,
+        "geo_altitude": 2308.86
+    },
+    "496c87": {
+        "callsign": "FM073   ",
+        "country": "Portugal",
+        "velocity": 6.43,
+        "geo_altitude": null
+    },
+    "484c9b": {
+        "callsign": "TRA27L  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 198.02,
+        "geo_altitude": 11765.28
+    },
+    "496c85": {
+        "callsign": "FM071   ",
+        "country": "Portugal",
+        "velocity": 4.63,
+        "geo_altitude": null
+    },
+    "40653a": {
+        "callsign": "EZY3396 ",
+        "country": "United Kingdom",
+        "velocity": 232.49,
+        "geo_altitude": 11620.5
+    },
+    "34768e": {
+        "callsign": "VLG56EE ",
+        "country": "Spain",
+        "velocity": 221.65,
+        "geo_altitude": 10454.64
+    },
+    "34768d": {
+        "callsign": "VLG6EK  ",
+        "country": "Spain",
+        "velocity": 61.22,
+        "geo_altitude": 83.82
+    },
+    "34768f": {
+        "callsign": "VLG14WE ",
+        "country": "Spain",
+        "velocity": 264.15,
+        "geo_altitude": 11437.62
+    },
+    "484c5a": {
+        "callsign": "TRA50L  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 0.77,
+        "geo_altitude": null
+    },
+    "496c2c": {
+        "callsign": "FM017   ",
+        "country": "Portugal",
+        "velocity": 6.94,
+        "geo_altitude": null
+    },
+    "40658a": {
+        "callsign": "CFE8465 ",
+        "country": "United Kingdom",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "347694": {
+        "callsign": "VLG6023 ",
+        "country": "Spain",
+        "velocity": 215.16,
+        "geo_altitude": 9105.9
+    },
+    "4780c9": {
+        "callsign": "SAS4698 ",
+        "country": "Norway",
+        "velocity": 267.23,
+        "geo_altitude": 11506.2
+    },
+    "461f9d": {
+        "callsign": "FIN7PW  ",
+        "country": "Finland",
+        "velocity": 229.75,
+        "geo_altitude": 7665.72
+    },
+    "34644b": {
+        "callsign": "IBS15CP ",
+        "country": "Spain",
+        "velocity": 193.61,
+        "geo_altitude": 11178.54
+    },
+    "34644d": {
+        "callsign": "IBS15AV ",
+        "country": "Spain",
+        "velocity": 265.98,
+        "geo_altitude": 11551.92
+    },
+    "34644c": {
+        "callsign": "IBS17QC ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "346458": {
+        "callsign": "IBE07TF ",
+        "country": "Spain",
+        "velocity": 78.2,
+        "geo_altitude": 1021.08
+    },
+    "a63c5e": {
+        "callsign": "N5000X  ",
+        "country": "United States",
+        "velocity": 263.71,
+        "geo_altitude": 13655.04
+    },
+    "345108": {
+        "callsign": "VLG4ZN  ",
+        "country": "Spain",
+        "velocity": 152.83,
+        "geo_altitude": 3131.82
+    },
+    "345109": {
+        "callsign": "IBE03AE ",
+        "country": "Spain",
+        "velocity": 240.82,
+        "geo_altitude": 11369.04
+    },
+    "89656d": {
+        "callsign": "ETD19N  ",
+        "country": "United Arab Emirates",
+        "velocity": 3.34,
+        "geo_altitude": null
+    },
+    "44cc45": {
+        "callsign": "BEL7QJ  ",
+        "country": "Belgium",
+        "velocity": 178.02,
+        "geo_altitude": 6553.2
+    },
+    "496cb0": {
+        "callsign": "MA033   ",
+        "country": "Portugal",
+        "velocity": 6.69,
+        "geo_altitude": null
+    },
+    "491312": {
+        "callsign": "NJE783G ",
+        "country": "Portugal",
+        "velocity": 55.82,
+        "geo_altitude": 190.5
+    },
+    "3463c6": {
+        "callsign": "VOE3615 ",
+        "country": "Spain",
+        "velocity": 208.94,
+        "geo_altitude": 11932.92
+    },
+    "4911ec": {
+        "callsign": "DBT528  ",
+        "country": "Portugal",
+        "velocity": 92.97,
+        "geo_altitude": 609.6
+    },
+    "461fa9": {
+        "callsign": "FIN7FG  ",
+        "country": "Finland",
+        "velocity": 259.84,
+        "geo_altitude": 10820.4
+    },
+    "461fa2": {
+        "callsign": "FIN8JD  ",
+        "country": "Finland",
+        "velocity": 260.09,
+        "geo_altitude": 11544.3
+    },
+    "4911f4": {
+        "callsign": "VVV461  ",
+        "country": "Portugal",
+        "velocity": 60.28,
+        "geo_altitude": 152.4
+    },
+    "40666d": {
+        "callsign": "EZY34GN ",
+        "country": "United Kingdom",
+        "velocity": 205.52,
+        "geo_altitude": 10172.7
+    },
+    "39a3fb": {
+        "callsign": "AIB101  ",
+        "country": "France",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "0201a5": {
+        "callsign": "CNTMG   ",
+        "country": "Morocco",
+        "velocity": 70.18,
+        "geo_altitude": 601.98
+    },
+    "0201a4": {
+        "callsign": "RAM3120 ",
+        "country": "Morocco",
+        "velocity": 246.21,
+        "geo_altitude": 11498.58
+    },
+    "0201a2": {
+        "callsign": "RAM750P ",
+        "country": "Morocco",
+        "velocity": 266.77,
+        "geo_altitude": 10949.94
+    },
+    "0201c3": {
+        "callsign": "RAM996  ",
+        "country": "Morocco",
+        "velocity": 75.97,
+        "geo_altitude": 152.4
+    },
+    "0201b5": {
+        "callsign": "RAM664Y ",
+        "country": "Morocco",
+        "velocity": 264.69,
+        "geo_altitude": 11582.4
+    },
+    "34654b": {
+        "callsign": "RZO122  ",
+        "country": "Spain",
+        "velocity": 86.27,
+        "geo_altitude": 601.98
+    },
+    "44cd61": {
+        "callsign": "OOSKA5  ",
+        "country": "Belgium",
+        "velocity": 70.24,
+        "geo_altitude": 1470.66
+    },
+    "345215": {
+        "callsign": "AEA71ZH ",
+        "country": "Spain",
+        "velocity": 4.63,
+        "geo_altitude": null
+    },
+    "345212": {
+        "callsign": "VLG5AN  ",
+        "country": "Spain",
+        "velocity": 234.02,
+        "geo_altitude": 10332.72
+    },
+    "345207": {
+        "callsign": "VLG7TZ  ",
+        "country": "Spain",
+        "velocity": 207.04,
+        "geo_altitude": 11300.46
+    },
+    "346501": {
+        "callsign": "ECNKH   ",
+        "country": "Spain",
+        "velocity": 0.77,
+        "geo_altitude": null
+    },
+    "4d00f4": {
+        "callsign": "LGL1E   ",
+        "country": "Luxembourg",
+        "velocity": 199.3,
+        "geo_altitude": 11871.96
+    },
+    "4d00f3": {
+        "callsign": "LGL785  ",
+        "country": "Luxembourg",
+        "velocity": 189.32,
+        "geo_altitude": 12420.6
+    },
+    "34260e": {
+        "callsign": "IBE04HT ",
+        "country": "Spain",
+        "velocity": 6.43,
+        "geo_altitude": null
+    },
+    "4ca4f5": {
+        "callsign": "RYR3XA  ",
+        "country": "Ireland",
+        "velocity": 185.36,
+        "geo_altitude": 7429.5
+    },
+    "040132": {
+        "callsign": "ETH8737 ",
+        "country": "Ethiopia",
+        "velocity": 249.65,
+        "geo_altitude": 12771.12
+    },
+    "485171": {
+        "callsign": "FYG82P  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 90.21,
+        "geo_altitude": 670.56
+    },
+    "4ca4ed": {
+        "callsign": "RYR27CM ",
+        "country": "Ireland",
+        "velocity": 9.26,
+        "geo_altitude": null
+    },
+    "4ca4ec": {
+        "callsign": "RYR7UH  ",
+        "country": "Ireland",
+        "velocity": 3.6,
+        "geo_altitude": null
+    },
+    "4409c0": {
+        "callsign": "EJU98ZU ",
+        "country": "Austria",
+        "velocity": 229.17,
+        "geo_altitude": 11612.88
+    },
+    "3d06d3": {
+        "callsign": "IFJ45Y  ",
+        "country": "Germany",
+        "velocity": 45.51,
+        "geo_altitude": 838.2
+    },
+    "4ca565": {
+        "callsign": "RYR81TF ",
+        "country": "Ireland",
+        "velocity": 252.16,
+        "geo_altitude": 11521.44
+    },
+    "49d563": {
+        "callsign": "TVP7317 ",
+        "country": "Czech Republic",
+        "velocity": 252.02,
+        "geo_altitude": 11597.64
+    },
+    "44d1b4": {
+        "callsign": "TFL6WV  ",
+        "country": "Belgium",
+        "velocity": 267.44,
+        "geo_altitude": 12115.8
+    },
+    "44d1a1": {
+        "callsign": "JAF3FD  ",
+        "country": "Belgium",
+        "velocity": 77.72,
+        "geo_altitude": 228.6
+    },
+    "485209": {
+        "callsign": "TRA81G  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3532c5": {
+        "callsign": "DUMBO91 ",
+        "country": "Spain",
+        "velocity": 190.54,
+        "geo_altitude": 4937.76
+    },
+    "3532c9": {
+        "callsign": "DUMBO01 ",
+        "country": "Spain",
+        "velocity": 193.26,
+        "geo_altitude": 5356.86
+    },
+    "3cf8be": {
+        "callsign": "PTN96G  ",
+        "country": "Germany",
+        "velocity": 28.29,
+        "geo_altitude": null
+    },
+    "406d90": {
+        "callsign": "EZY84VB ",
+        "country": "United Kingdom",
+        "velocity": 107.53,
+        "geo_altitude": 1341.12
+    },
+    "39bdaf": {
+        "callsign": "AFR1100 ",
+        "country": "France",
+        "velocity": 138.43,
+        "geo_altitude": 5593.08
+    },
+    "4ca2ca": {
+        "callsign": "EIN78L  ",
+        "country": "Ireland",
+        "velocity": 190.23,
+        "geo_altitude": 11087.1
+    },
+    "405a49": {
+        "callsign": "BAW513  ",
+        "country": "United Kingdom",
+        "velocity": 277.55,
+        "geo_altitude": 11498.58
+    },
+    "4ba94c": {
+        "callsign": "THY3RU  ",
+        "country": "Turkey",
+        "velocity": 256.08,
+        "geo_altitude": 11963.4
+    },
+    "44083f": {
+        "callsign": "EJU7278 ",
+        "country": "Austria",
+        "velocity": 208.89,
+        "geo_altitude": 7680.96
+    },
+    "4ca303": {
+        "callsign": "RYR63KN ",
+        "country": "Ireland",
+        "velocity": 203.96,
+        "geo_altitude": 11216.64
+    },
+    "39ab12": {
+        "callsign": "CRL984  ",
+        "country": "France",
+        "velocity": 216.86,
+        "geo_altitude": 11902.44
+    },
+    "401240": {
+        "callsign": "EFW4LY  ",
+        "country": "United Kingdom",
+        "velocity": 212.8,
+        "geo_altitude": 10660.38
+    },
+    "39bea2": {
+        "callsign": "FHPVC   ",
+        "country": "France",
+        "velocity": 134.37,
+        "geo_altitude": 6210.3
+    },
+    "503e2e": {
+        "callsign": "BFS12Q  ",
+        "country": "Lithuania",
+        "velocity": 53.94,
+        "geo_altitude": 2125.98
+    },
+    "74482f": {
+        "callsign": "RJA110  ",
+        "country": "Jordan",
+        "velocity": 249.78,
+        "geo_altitude": 10698.48
+    },
+    "405b6a": {
+        "callsign": "EZY16EG ",
+        "country": "United Kingdom",
+        "velocity": 221.17,
+        "geo_altitude": 12222.48
+    },
+    "3423c4": {
+        "callsign": "IBE06FC ",
+        "country": "Spain",
+        "velocity": 238.83,
+        "geo_altitude": 10988.04
+    },
+    "3424d4": {
+        "callsign": "VLG67ZB ",
+        "country": "Spain",
+        "velocity": 194.54,
+        "geo_altitude": 10027.92
+    },
+    "4ca242": {
+        "callsign": "RYR19WP ",
+        "country": "Ireland",
+        "velocity": 247.39,
+        "geo_altitude": 12252.96
+    },
+    "4ca246": {
+        "callsign": "RYR43TW ",
+        "country": "Ireland",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "4ca245": {
+        "callsign": "RYR27PB ",
+        "country": "Ireland",
+        "velocity": 244.45,
+        "geo_altitude": 11605.26
+    },
+    "4ca216": {
+        "callsign": "EIN76K  ",
+        "country": "Ireland",
+        "velocity": 187.8,
+        "geo_altitude": 11102.34
+    },
+    "34258f": {
+        "callsign": "VLG4CB  ",
+        "country": "Spain",
+        "velocity": 86.81,
+        "geo_altitude": 662.94
+    },
+    "4ca225": {
+        "callsign": "RYR69UR ",
+        "country": "Ireland",
+        "velocity": 130.85,
+        "geo_altitude": 3589.02
+    },
+    "4ca280": {
+        "callsign": "EIN5HA  ",
+        "country": "Ireland",
+        "velocity": 74.32,
+        "geo_altitude": 464.82
+    },
+    "342592": {
+        "callsign": "VLG4VU  ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "342591": {
+        "callsign": "VLG71JT ",
+        "country": "Spain",
+        "velocity": 112.57,
+        "geo_altitude": 1630.68
+    },
+    "4ca292": {
+        "callsign": "EIN49D  ",
+        "country": "Ireland",
+        "velocity": 264.07,
+        "geo_altitude": 11399.52
+    },
+    "4ca27b": {
+        "callsign": "RYR6KM  ",
+        "country": "Ireland",
+        "velocity": 227.11,
+        "geo_altitude": 11605.26
+    },
+    "4ca27c": {
+        "callsign": "RYR1QU  ",
+        "country": "Ireland",
+        "velocity": 146.92,
+        "geo_altitude": 6027.42
+    },
+    "34254b": {
+        "callsign": "GLJ77C  ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "71c359": {
+        "callsign": "AAR511  ",
+        "country": "Republic of Korea",
+        "velocity": 117.17,
+        "geo_altitude": 807.72
+    },
+    "4405b6": {
+        "callsign": "EJU7879 ",
+        "country": "Austria",
+        "velocity": 12.86,
+        "geo_altitude": null
+    },
+    "39ceb5": {
+        "callsign": "TVF7365 ",
+        "country": "France",
+        "velocity": 229.62,
+        "geo_altitude": 10965.18
+    },
+    "3420cb": {
+        "callsign": "IBE06HH ",
+        "country": "Spain",
+        "velocity": 235.69,
+        "geo_altitude": 8679.18
+    },
+    "39ceb8": {
+        "callsign": "TVF61WP ",
+        "country": "France",
+        "velocity": 189.29,
+        "geo_altitude": 12428.22
+    },
+    "39cea3": {
+        "callsign": "TVF59WC ",
+        "country": "France",
+        "velocity": 4.12,
+        "geo_altitude": null
+    },
+    "39cea7": {
+        "callsign": "TVF332E ",
+        "country": "France",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "44064a": {
+        "callsign": "EJU17KU ",
+        "country": "Austria",
+        "velocity": 104.12,
+        "geo_altitude": 1562.1
+    },
+    "407cf7": {
+        "callsign": "DHK076  ",
+        "country": "United Kingdom",
+        "velocity": 265.51,
+        "geo_altitude": 10972.8
+    },
+    "44061b": {
+        "callsign": "EJU62BF ",
+        "country": "Austria",
+        "velocity": 246.18,
+        "geo_altitude": 12207.24
+    },
+    "3949ef": {
+        "callsign": "AFR804  ",
+        "country": "France",
+        "velocity": 227.66,
+        "geo_altitude": 11300.46
+    },
+    "34224e": {
+        "callsign": "IBE09RY ",
+        "country": "Spain",
+        "velocity": 216.39,
+        "geo_altitude": 7840.98
+    },
+    "407cb4": {
+        "callsign": "RUK7KT  ",
+        "country": "United Kingdom",
+        "velocity": 193.85,
+        "geo_altitude": 11772.9
+    },
+    "407f7c": {
+        "callsign": "EXS59N  ",
+        "country": "United Kingdom",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "407f67": {
+        "callsign": "EZY53BU ",
+        "country": "United Kingdom",
+        "velocity": 219.55,
+        "geo_altitude": 11056.62
+    },
+    "3435c5": {
+        "callsign": "GES452N ",
+        "country": "Spain",
+        "velocity": 130.37,
+        "geo_altitude": 2331.72
+    },
+    "440735": {
+        "callsign": "EJU35WH ",
+        "country": "Austria",
+        "velocity": 261.86,
+        "geo_altitude": 11521.44
+    },
+    "440732": {
+        "callsign": "EJU89FB ",
+        "country": "Austria",
+        "velocity": 174.91,
+        "geo_altitude": 7406.64
+    },
+    "407f00": {
+        "callsign": "LNX86GL ",
+        "country": "United Kingdom",
+        "velocity": 231.5,
+        "geo_altitude": 9090.66
+    },
+    "3ce256": {
+        "callsign": "BID51A  ",
+        "country": "Germany",
+        "velocity": 154.49,
+        "geo_altitude": 6530.34
+    },
+    "3444da": {
+        "callsign": "VLG4MA  ",
+        "country": "Spain",
+        "velocity": 238.11,
+        "geo_altitude": 10988.04
+    },
+    "3444cc": {
+        "callsign": "VLG6311 ",
+        "country": "Spain",
+        "velocity": 79.6,
+        "geo_altitude": 594.36
+    },
+    "3444d0": {
+        "callsign": "VLG7886 ",
+        "country": "Spain",
+        "velocity": 208.89,
+        "geo_altitude": 11315.7
+    },
+    "342091": {
+        "callsign": "IBE05RP ",
+        "country": "Spain",
+        "velocity": 207.5,
+        "geo_altitude": 8938.26
+    },
+    "343385": {
+        "callsign": "IBS15LP ",
+        "country": "Spain",
+        "velocity": 201.42,
+        "geo_altitude": 11262.36
+    },
+    "344698": {
+        "callsign": "VLG72CR ",
+        "country": "Spain",
+        "velocity": 12.86,
+        "geo_altitude": null
+    },
+    "344699": {
+        "callsign": "VLG21MP ",
+        "country": "Spain",
+        "velocity": 5.66,
+        "geo_altitude": null
+    },
+    "344694": {
+        "callsign": "VLG6YM  ",
+        "country": "Spain",
+        "velocity": 253.46,
+        "geo_altitude": 11567.16
+    },
+    "34334a": {
+        "callsign": "GPM31G  ",
+        "country": "Spain",
+        "velocity": 69.39,
+        "geo_altitude": 2476.5
+    },
+    "4402ac": {
+        "callsign": "EJU12DQ ",
+        "country": "Austria",
+        "velocity": 231.4,
+        "geo_altitude": 12222.48
+    },
+    "344645": {
+        "callsign": "VLG2QP  ",
+        "country": "Spain",
+        "velocity": 81.23,
+        "geo_altitude": 632.46
+    },
+    "344648": {
+        "callsign": "IBE06VT ",
+        "country": "Spain",
+        "velocity": 236.34,
+        "geo_altitude": 10988.04
+    },
+    "48c226": {
+        "callsign": "RYR71XW ",
+        "country": "Poland",
+        "velocity": 206.63,
+        "geo_altitude": 11910.06
+    },
+    "3d1327": {
+        "callsign": "CSR54   ",
+        "country": "Germany",
+        "velocity": 70.51,
+        "geo_altitude": 1173.48
+    },
+    "407d4c": {
+        "callsign": "TOM322  ",
+        "country": "United Kingdom",
+        "velocity": 232.57,
+        "geo_altitude": 12329.16
+    },
+    "3445d4": {
+        "callsign": "IBE04RC ",
+        "country": "Spain",
+        "velocity": 229.47,
+        "geo_altitude": 9448.8
+    },
+    "440591": {
+        "callsign": "GAC375X ",
+        "country": "Austria",
+        "velocity": 161.99,
+        "geo_altitude": 9715.5
+    },
+    "4bb721": {
+        "callsign": "DAH1208 ",
+        "country": "Turkey",
+        "velocity": 222.21,
+        "geo_altitude": 10317.48
+    },
+    "342107": {
+        "callsign": "IBE09AP ",
+        "country": "Spain",
+        "velocity": 213.34,
+        "geo_altitude": 10690.86
+    },
+    "39bb25": {
+        "callsign": "AFR72KQ ",
+        "country": "France",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "39bb20": {
+        "callsign": "AFR1184 ",
+        "country": "France",
+        "velocity": 231.26,
+        "geo_altitude": 11894.82
+    },
+    "440da5": {
+        "callsign": "EJU97HA ",
+        "country": "Austria",
+        "velocity": 147.48,
+        "geo_altitude": 2263.14
+    },
+    "aaa6e4": {
+        "callsign": "AVA011  ",
+        "country": "United States",
+        "velocity": 247.55,
+        "geo_altitude": 12306.3
+    },
+    "4b181c": {
+        "callsign": "SWR1958 ",
+        "country": "Switzerland",
+        "velocity": 0.32,
+        "geo_altitude": null
+    },
+    "4952c9": {
+        "callsign": "TAP643  ",
+        "country": "Portugal",
+        "velocity": 127.27,
+        "geo_altitude": 2186.94
+    },
+    "440daf": {
+        "callsign": "EJU43QE ",
+        "country": "Austria",
+        "velocity": 258.88,
+        "geo_altitude": 10812.78
+    },
+    "4952c6": {
+        "callsign": "TAP1558 ",
+        "country": "Portugal",
+        "velocity": 185.13,
+        "geo_altitude": 5676.9
+    },
+    "4952a7": {
+        "callsign": "TAP011  ",
+        "country": "Portugal",
+        "velocity": 155.4,
+        "geo_altitude": 5455.92
+    },
+    "4952a1": {
+        "callsign": "TAP209K ",
+        "country": "Portugal",
+        "velocity": 89.17,
+        "geo_altitude": 487.68
+    },
+    "3c666f": {
+        "callsign": "DLH99M  ",
+        "country": "Germany",
+        "velocity": 241.52,
+        "geo_altitude": 11117.58
+    },
+    "3c65ca": {
+        "callsign": "DLH44K  ",
+        "country": "Germany",
+        "velocity": 247.34,
+        "geo_altitude": 11590.02
+    },
+    "ae0193": {
+        "callsign": "DOVE72  ",
+        "country": "United States",
+        "velocity": 245.81,
+        "geo_altitude": 10355.58
+    },
+    "48597d": {
+        "callsign": "TRA23J  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 130.46,
+        "geo_altitude": 2301.24
+    },
+    "440cc1": {
+        "callsign": "EJU15RE ",
+        "country": "Austria",
+        "velocity": 260.46,
+        "geo_altitude": 12184.38
+    },
+    "4951cc": {
+        "callsign": "TAP44BR ",
+        "country": "Portugal",
+        "velocity": 256.3,
+        "geo_altitude": 11468.1
+    },
+    "39d315": {
+        "callsign": "TVF972N ",
+        "country": "France",
+        "velocity": 235.71,
+        "geo_altitude": 11917.68
+    },
+    "40820f": {
+        "callsign": "EXS52KG ",
+        "country": "United Kingdom",
+        "velocity": 190.97,
+        "geo_altitude": 11849.1
+    },
+    "a70c2d": {
+        "callsign": "N553SN  ",
+        "country": "United States",
+        "velocity": 246.75,
+        "geo_altitude": 12428.22
+    },
+    "3c7878": {
+        "callsign": "CFG1UH  ",
+        "country": "Germany",
+        "velocity": 166.86,
+        "geo_altitude": 5242.56
+    },
+    "3cc847": {
+        "callsign": "HRN223  ",
+        "country": "Germany",
+        "velocity": 102.89,
+        "geo_altitude": 3886.2
+    },
+    "3c6552": {
+        "callsign": "LHX02V  ",
+        "country": "Germany",
+        "velocity": 213.67,
+        "geo_altitude": 5029.2
+    },
+    "39e694": {
+        "callsign": "AFR31CZ ",
+        "country": "France",
+        "velocity": 212.01,
+        "geo_altitude": 11277.6
+    },
+    "0a0052": {
+        "callsign": "",
+        "country": "Algeria",
+        "velocity": 113.09,
+        "geo_altitude": 2887.98
+    },
+    "3c64a6": {
+        "callsign": "DLH62A  ",
+        "country": "Germany",
+        "velocity": 258,
+        "geo_altitude": 10614.66
+    },
+    "0a001b": {
+        "callsign": "DAH2055 ",
+        "country": "Algeria",
+        "velocity": 249.94,
+        "geo_altitude": 7536.18
+    },
+    "3c64a9": {
+        "callsign": "DLH48H  ",
+        "country": "Germany",
+        "velocity": 261.63,
+        "geo_altitude": 12214.86
+    },
+    "0a001a": {
+        "callsign": "DAH2071 ",
+        "country": "Algeria",
+        "velocity": 249.17,
+        "geo_altitude": 9707.88
+    },
+    "0a009c": {
+        "callsign": "DTH1159 ",
+        "country": "Algeria",
+        "velocity": 83.02,
+        "geo_altitude": 601.98
+    },
+    "0a0079": {
+        "callsign": "DAH2063 ",
+        "country": "Algeria",
+        "velocity": 77.72,
+        "geo_altitude": 259.08
+    },
+    "0a0077": {
+        "callsign": "DAH1082 ",
+        "country": "Algeria",
+        "velocity": 233.29,
+        "geo_altitude": 11612.88
+    },
+    "0a0074": {
+        "callsign": "DAH1005 ",
+        "country": "Algeria",
+        "velocity": 252.29,
+        "geo_altitude": 11285.22
+    },
+    "0a0075": {
+        "callsign": "DAH2014 ",
+        "country": "Algeria",
+        "velocity": 193.92,
+        "geo_altitude": 6324.6
+    },
+    "4080e9": {
+        "callsign": "BAW426  ",
+        "country": "United Kingdom",
+        "velocity": 209.05,
+        "geo_altitude": 11285.22
+    },
+    "4080e3": {
+        "callsign": "BAW506  ",
+        "country": "United Kingdom",
+        "velocity": 198.66,
+        "geo_altitude": 11765.28
+    },
+    "4080e2": {
+        "callsign": "EXS30L  ",
+        "country": "United Kingdom",
+        "velocity": 194.69,
+        "geo_altitude": 12473.94
+    },
+    "494107": {
+        "callsign": "NJE895E ",
+        "country": "Portugal",
+        "velocity": 209.25,
+        "geo_altitude": 12824.46
+    },
+    "39d306": {
+        "callsign": "TVF85UA ",
+        "country": "France",
+        "velocity": 255.29,
+        "geo_altitude": 10949.94
+    },
+    "3c6482": {
+        "callsign": "DLH51H  ",
+        "country": "Germany",
+        "velocity": 234.27,
+        "geo_altitude": 6629.4
+    },
+    "3c648a": {
+        "callsign": "DLH05E  ",
+        "country": "Germany",
+        "velocity": 276.67,
+        "geo_altitude": 9197.34
+    },
+    "3c6496": {
+        "callsign": "EWG20H  ",
+        "country": "Germany",
+        "velocity": 224.31,
+        "geo_altitude": 11536.68
+    },
+    "3c6422": {
+        "callsign": "CFG2WK  ",
+        "country": "Germany",
+        "velocity": 96.73,
+        "geo_altitude": 906.78
+    },
+    "4b1620": {
+        "callsign": "EDW268G ",
+        "country": "Switzerland",
+        "velocity": 213.53,
+        "geo_altitude": 11277.6
+    },
+    "4869c1": {
+        "callsign": "TRA5J   ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 208.47,
+        "geo_altitude": 11254.74
+    },
+    "495171": {
+        "callsign": "RZO1146 ",
+        "country": "Portugal",
+        "velocity": 186.32,
+        "geo_altitude": 3771.9
+    },
+    "4b1691": {
+        "callsign": "SWR465K ",
+        "country": "Switzerland",
+        "velocity": 3.6,
+        "geo_altitude": null
+    },
+    "495153": {
+        "callsign": "TAP435  ",
+        "country": "Portugal",
+        "velocity": 199.93,
+        "geo_altitude": 11170.92
+    },
+    "495145": {
+        "callsign": "TAP438T ",
+        "country": "Portugal",
+        "velocity": 261.11,
+        "geo_altitude": 10896.6
+    },
+    "495149": {
+        "callsign": "TAP91SR ",
+        "country": "Portugal",
+        "velocity": 203.01,
+        "geo_altitude": 11102.34
+    },
+    "440c35": {
+        "callsign": "EJU45WU ",
+        "country": "Austria",
+        "velocity": 267.76,
+        "geo_altitude": 12115.8
+    },
+    "4b027e": {
+        "callsign": "EZS52HV ",
+        "country": "Switzerland",
+        "velocity": 224.46,
+        "geo_altitude": 11917.68
+    },
+    "4b027c": {
+        "callsign": "EJU43TE ",
+        "country": "Switzerland",
+        "velocity": 207.62,
+        "geo_altitude": 10347.96
+    },
+    "3991e8": {
+        "callsign": "AFR33EP ",
+        "country": "France",
+        "velocity": 228.39,
+        "geo_altitude": 6858
+    },
+    "3cc82c": {
+        "callsign": "VJH357  ",
+        "country": "Germany",
+        "velocity": 133.98,
+        "geo_altitude": 1303.02
+    },
+    "3991ea": {
+        "callsign": "AFR38HQ ",
+        "country": "France",
+        "velocity": 259.3,
+        "geo_altitude": 11574.78
+    },
+    "4951d4": {
+        "callsign": "TAP9015 ",
+        "country": "Portugal",
+        "velocity": 251.67,
+        "geo_altitude": 12039.6
+    },
+    "400980": {
+        "callsign": "BAW3LK  ",
+        "country": "United Kingdom",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3c0caa": {
+        "callsign": "TUI1A   ",
+        "country": "Germany",
+        "velocity": 206.16,
+        "geo_altitude": 11696.7
+    },
+    "392af4": {
+        "callsign": "AFR18NL ",
+        "country": "France",
+        "velocity": 261.78,
+        "geo_altitude": 11582.4
+    },
+    "440d6f": {
+        "callsign": "EJU56YT ",
+        "country": "Austria",
+        "velocity": 262.81,
+        "geo_altitude": 10698.48
+    },
+    "3c75a5": {
+        "callsign": "AZE599  ",
+        "country": "Germany",
+        "velocity": 128.97,
+        "geo_altitude": 2606.04
+    },
+    "495299": {
+        "callsign": "TAP1017 ",
+        "country": "Portugal",
+        "velocity": 209.39,
+        "geo_altitude": 9974.58
+    },
+    "495292": {
+        "callsign": "TAP5RP  ",
+        "country": "Portugal",
+        "velocity": 67.19,
+        "geo_altitude": 144.78
+    },
+    "495293": {
+        "callsign": "TAP825  ",
+        "country": "Portugal",
+        "velocity": 212.15,
+        "geo_altitude": 12519.66
+    },
+    "4baada": {
+        "callsign": "THY5YE  ",
+        "country": "Turkey",
+        "velocity": 242.27,
+        "geo_altitude": 11330.94
+    },
+    "4007f6": {
+        "callsign": "BAW461  ",
+        "country": "United Kingdom",
+        "velocity": 267.87,
+        "geo_altitude": 12755.88
+    },
+    "49521a": {
+        "callsign": "TAP1905 ",
+        "country": "Portugal",
+        "velocity": 1.29,
+        "geo_altitude": null
+    },
+    "49520f": {
+        "callsign": "TAP35BL ",
+        "country": "Portugal",
+        "velocity": 202.43,
+        "geo_altitude": 11887.2
+    },
+    "495217": {
+        "callsign": "TAP876  ",
+        "country": "Portugal",
+        "velocity": 234.48,
+        "geo_altitude": 12184.38
+    },
+    "495214": {
+        "callsign": "TAP1036 ",
+        "country": "Portugal",
+        "velocity": 219.58,
+        "geo_altitude": 8968.74
+    },
+    "4ca9d3": {
+        "callsign": "RYR27CF ",
+        "country": "Ireland",
+        "velocity": 234.45,
+        "geo_altitude": 11925.3
+    },
+    "48683e": {
+        "callsign": "TRA57P  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 221.68,
+        "geo_altitude": 11285.22
+    },
+    "4ca8e7": {
+        "callsign": "RYR20AM ",
+        "country": "Ireland",
+        "velocity": 232.6,
+        "geo_altitude": 10347.96
+    },
+    "4ca8e8": {
+        "callsign": "RYR7KG  ",
+        "country": "Ireland",
+        "velocity": 5.4,
+        "geo_altitude": null
+    },
+    "4bab24": {
+        "callsign": "THY2WF  ",
+        "country": "Turkey",
+        "velocity": 76.98,
+        "geo_altitude": 137.16
+    },
+    "4868e2": {
+        "callsign": "TRA83E  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 232.98,
+        "geo_altitude": 11696.7
+    },
+    "3c7422": {
+        "callsign": "TUI6NL  ",
+        "country": "Germany",
+        "velocity": 202.63,
+        "geo_altitude": 11239.5
+    },
+    "4ca912": {
+        "callsign": "RYR2AA  ",
+        "country": "Ireland",
+        "velocity": 258.39,
+        "geo_altitude": 11544.3
+    },
+    "4ca911": {
+        "callsign": "RYR1GE  ",
+        "country": "Ireland",
+        "velocity": 215.14,
+        "geo_altitude": 11925.3
+    },
+    "4868b9": {
+        "callsign": "TRA14L  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 216.81,
+        "geo_altitude": 11369.04
+    },
+    "495066": {
+        "callsign": "OBS130P ",
+        "country": "Portugal",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "495038": {
+        "callsign": "TAP1018 ",
+        "country": "Portugal",
+        "velocity": 238.36,
+        "geo_altitude": 8854.44
+    },
+    "495039": {
+        "callsign": "TAP921  ",
+        "country": "Portugal",
+        "velocity": 74.46,
+        "geo_altitude": 137.16
+    },
+    "4ca84c": {
+        "callsign": "RYR7VH  ",
+        "country": "Ireland",
+        "velocity": 150.96,
+        "geo_altitude": 3520.44
+    },
+    "4ca84a": {
+        "callsign": "RYR847E ",
+        "country": "Ireland",
+        "velocity": 255.34,
+        "geo_altitude": 11498.58
+    },
+    "4ca853": {
+        "callsign": "RYR50GF ",
+        "country": "Ireland",
+        "velocity": 226.31,
+        "geo_altitude": 10888.98
+    },
+    "4ca893": {
+        "callsign": "RYR99TV ",
+        "country": "Ireland",
+        "velocity": 127.82,
+        "geo_altitude": 1508.76
+    },
+    "390839": {
+        "callsign": "CSR40   ",
+        "country": "France",
+        "velocity": 76.41,
+        "geo_altitude": 1196.34
+    },
+    "3c0c9e": {
+        "callsign": "TUI5AL  ",
+        "country": "Germany",
+        "velocity": 215.63,
+        "geo_altitude": 8054.34
+    },
+    "4ca7b5": {
+        "callsign": "RYR165E ",
+        "country": "Ireland",
+        "velocity": 253.64,
+        "geo_altitude": 11521.44
+    },
+    "4ca6fc": {
+        "callsign": "RYR425M ",
+        "country": "Ireland",
+        "velocity": 192.12,
+        "geo_altitude": 5013.96
+    },
+    "4ca82f": {
+        "callsign": "EJU51YQ ",
+        "country": "Ireland",
+        "velocity": 68.29,
+        "geo_altitude": 274.32
+    },
+    "4ca760": {
+        "callsign": "RYR9PJ  ",
+        "country": "Ireland",
+        "velocity": 7.46,
+        "geo_altitude": null
+    },
+    "4ca75f": {
+        "callsign": "RYR83GT ",
+        "country": "Ireland",
+        "velocity": 117.47,
+        "geo_altitude": 1173.48
+    },
+    "4ca766": {
+        "callsign": "RYR65SL ",
+        "country": "Ireland",
+        "velocity": 231.69,
+        "geo_altitude": 12207.24
+    },
+    "4ca761": {
+        "callsign": "RYR3YM  ",
+        "country": "Ireland",
+        "velocity": 13.38,
+        "geo_altitude": null
+    },
+    "4ca763": {
+        "callsign": "RYR76RK ",
+        "country": "Ireland",
+        "velocity": 95.68,
+        "geo_altitude": 754.38
+    },
+    "4ca764": {
+        "callsign": "RYR5VG  ",
+        "country": "Ireland",
+        "velocity": 234.3,
+        "geo_altitude": 11605.26
+    },
+    "4ca737": {
+        "callsign": "RYR28XE ",
+        "country": "Ireland",
+        "velocity": 205.97,
+        "geo_altitude": 11894.82
+    },
+    "394c0c": {
+        "callsign": "AFR29PB ",
+        "country": "France",
+        "velocity": 236.56,
+        "geo_altitude": 10949.94
+    },
+    "449682": {
+        "callsign": "JAF9CY  ",
+        "country": "Belgium",
+        "velocity": 69.53,
+        "geo_altitude": 198.12
+    },
+    "4864ec": {
+        "callsign": "KLM34B  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 238.76,
+        "geo_altitude": 12192
+    },
+    "341589": {
+        "callsign": "AZOR03  ",
+        "country": "Spain",
+        "velocity": 78.47,
+        "geo_altitude": 624.84
+    },
+    "4853d0": {
+        "callsign": "TRA93K  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 166.85,
+        "geo_altitude": 3710.94
+    },
+    "4853d2": {
+        "callsign": "TRA1B   ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 125.01,
+        "geo_altitude": 2171.7
+    },
+    "341682": {
+        "callsign": "IBS17UF ",
+        "country": "Spain",
+        "velocity": 205.89,
+        "geo_altitude": 6537.96
+    },
+    "4a0441": {
+        "callsign": "VOE2FC  ",
+        "country": "Romania",
+        "velocity": 240.95,
+        "geo_altitude": 9669.78
+    },
+    "3856a0": {
+        "callsign": "FBVVA   ",
+        "country": "France",
+        "velocity": 52.08,
+        "geo_altitude": 1341.12
+    },
+    "346185": {
+        "callsign": "IBE08TR ",
+        "country": "Spain",
+        "velocity": 108.55,
+        "geo_altitude": 1729.74
+    },
+    "346184": {
+        "callsign": "VLG413B ",
+        "country": "Spain",
+        "velocity": 163.42,
+        "geo_altitude": 4030.98
+    },
+    "346186": {
+        "callsign": "IBE08SV ",
+        "country": "Spain",
+        "velocity": 237.64,
+        "geo_altitude": 10241.28
+    },
+    "346182": {
+        "callsign": "ANE16JH ",
+        "country": "Spain",
+        "velocity": 143.37,
+        "geo_altitude": 6522.72
+    },
+    "406319": {
+        "callsign": "EZY37FX ",
+        "country": "United Kingdom",
+        "velocity": 198.56,
+        "geo_altitude": 11216.64
+    },
+    "407686": {
+        "callsign": "EZY89KA ",
+        "country": "United Kingdom",
+        "velocity": 253.97,
+        "geo_altitude": 12024.36
+    },
+    "34610f": {
+        "callsign": "VLG5LP  ",
+        "country": "Spain",
+        "velocity": 191.07,
+        "geo_altitude": 7208.52
+    },
+    "34750f": {
+        "callsign": "AEA69JP ",
+        "country": "Spain",
+        "velocity": 194.08,
+        "geo_altitude": 4572
+    },
+    "347501": {
+        "callsign": "IBS15GG ",
+        "country": "Spain",
+        "velocity": 202.62,
+        "geo_altitude": 6873.24
+    },
+    "4cafc3": {
+        "callsign": "RYR55AR ",
+        "country": "Ireland",
+        "velocity": 2.57,
+        "geo_altitude": null
+    },
+    "4cafc4": {
+        "callsign": "RYR9MT  ",
+        "country": "Ireland",
+        "velocity": 153,
+        "geo_altitude": 4914.9
+    },
+    "4cafcf": {
+        "callsign": "RYR49KF ",
+        "country": "Ireland",
+        "velocity": 206.46,
+        "geo_altitude": 11254.74
+    },
+    "4b9642": {
+        "callsign": "TCERB   ",
+        "country": "Turkey",
+        "velocity": 253.55,
+        "geo_altitude": 12237.72
+    },
+    "400f02": {
+        "callsign": "EZY23AN ",
+        "country": "United Kingdom",
+        "velocity": 258.92,
+        "geo_altitude": 12100.56
+    },
+    "4076b0": {
+        "callsign": "TOM86B  ",
+        "country": "United Kingdom",
+        "velocity": 223.31,
+        "geo_altitude": 11666.22
+    },
+    "4caff6": {
+        "callsign": "RYR9RL  ",
+        "country": "Ireland",
+        "velocity": 200.16,
+        "geo_altitude": 11887.2
+    },
+    "3964ea": {
+        "callsign": "TVF46GH ",
+        "country": "France",
+        "velocity": 154.22,
+        "geo_altitude": 7025.64
+    },
+    "3964ee": {
+        "callsign": "TVF45AG ",
+        "country": "France",
+        "velocity": 194.62,
+        "geo_altitude": 4663.44
+    },
+    "407793": {
+        "callsign": "EZY54VT ",
+        "country": "United Kingdom",
+        "velocity": 220.76,
+        "geo_altitude": 11064.24
+    },
+    "40777c": {
+        "callsign": "EXS58JR ",
+        "country": "United Kingdom",
+        "velocity": 185.21,
+        "geo_altitude": 12443.46
+    },
+    "40643d": {
+        "callsign": "EZY91VY ",
+        "country": "United Kingdom",
+        "velocity": 250.14,
+        "geo_altitude": 11544.3
+    },
+    "48ae83": {
+        "callsign": "LOT4KZ  ",
+        "country": "Poland",
+        "velocity": 229.65,
+        "geo_altitude": 11109.96
+    },
+    "3964f9": {
+        "callsign": "TVF15GP ",
+        "country": "France",
+        "velocity": 232.08,
+        "geo_altitude": 10683.24
+    },
+    "484b2a": {
+        "callsign": "TRA54P  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 113.72,
+        "geo_altitude": 1219.2
+    },
+    "347658": {
+        "callsign": "VLG35PE ",
+        "country": "Spain",
+        "velocity": 170.12,
+        "geo_altitude": 3581.4
+    },
+    "347645": {
+        "callsign": "IBB6KL  ",
+        "country": "Spain",
+        "velocity": 76.76,
+        "geo_altitude": 297.18
+    },
+    "347643": {
+        "callsign": "AEA033  ",
+        "country": "Spain",
+        "velocity": 252.6,
+        "geo_altitude": 11673.84
+    },
+    "4b1a66": {
+        "callsign": "EZS62YX ",
+        "country": "Switzerland",
+        "velocity": 201.48,
+        "geo_altitude": 11894.82
+    },
+    "4b1a67": {
+        "callsign": "EZS78GR ",
+        "country": "Switzerland",
+        "velocity": 218.61,
+        "geo_altitude": 11612.88
+    },
+    "4d24d6": {
+        "callsign": "WZZ6296 ",
+        "country": "",
+        "velocity": 130.68,
+        "geo_altitude": 2087.88
+    },
+    "40772d": {
+        "callsign": "EZY46ZB ",
+        "country": "United Kingdom",
+        "velocity": 198.6,
+        "geo_altitude": 7498.08
+    },
+    "4d24b5": {
+        "callsign": "WMT3HX  ",
+        "country": "",
+        "velocity": 248.66,
+        "geo_altitude": 10805.16
+    },
+    "347601": {
+        "callsign": "VLG8DL  ",
+        "country": "Spain",
+        "velocity": 9.26,
+        "geo_altitude": null
+    },
+    "4075df": {
+        "callsign": "EZY28XC ",
+        "country": "United Kingdom",
+        "velocity": 224.9,
+        "geo_altitude": 11689.08
+    },
+    "4d2504": {
+        "callsign": "RYR42MV ",
+        "country": "",
+        "velocity": 222.1,
+        "geo_altitude": 10447.02
+    },
+    "4d2500": {
+        "callsign": "RYR40SJ ",
+        "country": "",
+        "velocity": 192.16,
+        "geo_altitude": 11780.52
+    },
+    "4d253b": {
+        "callsign": "EWG5LC  ",
+        "country": "",
+        "velocity": 108.09,
+        "geo_altitude": 1348.74
+    },
+    "4caee4": {
+        "callsign": "RYR33JZ ",
+        "country": "Ireland",
+        "velocity": 205.78,
+        "geo_altitude": 11719.56
+    },
+    "4d251b": {
+        "callsign": "RYR2DG  ",
+        "country": "",
+        "velocity": 208.41,
+        "geo_altitude": 11917.68
+    },
+    "4caed8": {
+        "callsign": "EIN77C  ",
+        "country": "Ireland",
+        "velocity": 196.52,
+        "geo_altitude": 11772.9
+    },
+    "347247": {
+        "callsign": "IBS18KQ ",
+        "country": "Spain",
+        "velocity": 5.14,
+        "geo_altitude": null
+    },
+    "347219": {
+        "callsign": "IBE09VB ",
+        "country": "Spain",
+        "velocity": 132.73,
+        "geo_altitude": 4777.74
+    },
+    "407446": {
+        "callsign": "EDC046  ",
+        "country": "United Kingdom",
+        "velocity": 110.03,
+        "geo_altitude": 853.44
+    },
+    "4caf29": {
+        "callsign": "RYR83EB ",
+        "country": "Ireland",
+        "velocity": 225.68,
+        "geo_altitude": 11308.08
+    },
+    "4caf34": {
+        "callsign": "RYR61ME ",
+        "country": "Ireland",
+        "velocity": 273.18,
+        "geo_altitude": 11414.76
+    },
+    "347306": {
+        "callsign": "AEA91DU ",
+        "country": "Spain",
+        "velocity": 3.09,
+        "geo_altitude": null
+    },
+    "4d23b6": {
+        "callsign": "ANE90FJ ",
+        "country": "Malta",
+        "velocity": 11.32,
+        "geo_altitude": null
+    },
+    "348602": {
+        "callsign": "ANE1224 ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "4d23fc": {
+        "callsign": "RYR76GX ",
+        "country": "Malta",
+        "velocity": 77.11,
+        "geo_altitude": 259.08
+    },
+    "3485d2": {
+        "callsign": "ANE77CQ ",
+        "country": "Spain",
+        "velocity": 239.37,
+        "geo_altitude": 8107.68
+    },
+    "4d2402": {
+        "callsign": "WZZ39PM ",
+        "country": "",
+        "velocity": 264.6,
+        "geo_altitude": 10881.36
+    },
+    "3485c7": {
+        "callsign": "ECEXL   ",
+        "country": "Spain",
+        "velocity": 41.83,
+        "geo_altitude": 723.9
+    },
+    "4d2433": {
+        "callsign": "WZZ32YY ",
+        "country": "",
+        "velocity": 68.94,
+        "geo_altitude": 129.54
+    },
+    "4cadbe": {
+        "callsign": "RYR77KA ",
+        "country": "Ireland",
+        "velocity": 233.75,
+        "geo_altitude": 12199.62
+    },
+    "34608f": {
+        "callsign": "IBE07PM ",
+        "country": "Spain",
+        "velocity": 260.33,
+        "geo_altitude": 10988.04
+    },
+    "4d242b": {
+        "callsign": "WZZ8NQ  ",
+        "country": "",
+        "velocity": 214.86,
+        "geo_altitude": 8115.3
+    },
+    "4d2416": {
+        "callsign": "EWG2J   ",
+        "country": "",
+        "velocity": 6.43,
+        "geo_altitude": null
+    },
+    "4d2412": {
+        "callsign": "EWG7G   ",
+        "country": "",
+        "velocity": 70.14,
+        "geo_altitude": 251.46
+    },
+    "346095": {
+        "callsign": "RSC92YQ ",
+        "country": "Spain",
+        "velocity": 140.43,
+        "geo_altitude": 2941.32
+    },
+    "346091": {
+        "callsign": "VLG4BV  ",
+        "country": "Spain",
+        "velocity": 204.67,
+        "geo_altitude": 9441.18
+    },
+    "4cada4": {
+        "callsign": "RYR96AH ",
+        "country": "Ireland",
+        "velocity": 233.81,
+        "geo_altitude": 12222.48
+    },
+    "4d2424": {
+        "callsign": "WMT3PH  ",
+        "country": "",
+        "velocity": 245.02,
+        "geo_altitude": 11582.4
+    },
+    "4cadb8": {
+        "callsign": "RYR371D ",
+        "country": "Ireland",
+        "velocity": 248.25,
+        "geo_altitude": 12252.96
+    },
+    "4cadfe": {
+        "callsign": "RYR44PB ",
+        "country": "Ireland",
+        "velocity": 272.61,
+        "geo_altitude": 10622.28
+    },
+    "34604d": {
+        "callsign": "AEA21NZ ",
+        "country": "Spain",
+        "velocity": 11.32,
+        "geo_altitude": null
+    },
+    "347388": {
+        "callsign": "IBE0153 ",
+        "country": "Spain",
+        "velocity": 254.35,
+        "geo_altitude": 11978.64
+    },
+    "4cadf0": {
+        "callsign": "RYR9ZM  ",
+        "country": "Ireland",
+        "velocity": 197.46,
+        "geo_altitude": 8229.6
+    },
+    "4cade6": {
+        "callsign": "RYR556U ",
+        "country": "Ireland",
+        "velocity": 3.6,
+        "geo_altitude": null
+    },
+    "346043": {
+        "callsign": "VOE1858 ",
+        "country": "Spain",
+        "velocity": 104.33,
+        "geo_altitude": 708.66
+    },
+    "4cadef": {
+        "callsign": "RYR451P ",
+        "country": "Ireland",
+        "velocity": 227.08,
+        "geo_altitude": 9121.14
+    },
+    "4cadf4": {
+        "callsign": "RYR64BJ ",
+        "country": "Ireland",
+        "velocity": 224.54,
+        "geo_altitude": 11925.3
+    },
+    "40756b": {
+        "callsign": "EZY35AB ",
+        "country": "United Kingdom",
+        "velocity": 186.08,
+        "geo_altitude": 3649.98
+    },
+    "346105": {
+        "callsign": "REECNAA ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": 91.44
+    },
+    "4cae19": {
+        "callsign": "ITY854  ",
+        "country": "Ireland",
+        "velocity": 228.21,
+        "geo_altitude": 11353.8
+    },
+    "4cae58": {
+        "callsign": "RYR7RP  ",
+        "country": "Ireland",
+        "velocity": 254.33,
+        "geo_altitude": 12245.34
+    },
+    "49213a": {
+        "callsign": "HIB906  ",
+        "country": "Portugal",
+        "velocity": 24.22,
+        "geo_altitude": 175.26
+    },
+    "4cae6d": {
+        "callsign": "RYR612X ",
+        "country": "Ireland",
+        "velocity": 242.46,
+        "geo_altitude": 11597.64
+    },
+    "492138": {
+        "callsign": "CSHIX   ",
+        "country": "Portugal",
+        "velocity": 42.14,
+        "geo_altitude": 1760.22
+    },
+    "4073a1": {
+        "callsign": "EZY67XU ",
+        "country": "United Kingdom",
+        "velocity": 225.41,
+        "geo_altitude": 12321.54
+    },
+    "4cae5a": {
+        "callsign": "RYR193F ",
+        "country": "Ireland",
+        "velocity": 208.12,
+        "geo_altitude": 11750.04
+    },
+    "4d22c2": {
+        "callsign": "RYR93CQ ",
+        "country": "Malta",
+        "velocity": 68.38,
+        "geo_altitude": 266.7
+    },
+    "4d22b7": {
+        "callsign": "RYR2ZB  ",
+        "country": "Malta",
+        "velocity": 150.44,
+        "geo_altitude": 3322.32
+    },
+    "4d22b5": {
+        "callsign": "RYR95SM ",
+        "country": "Malta",
+        "velocity": 231.08,
+        "geo_altitude": 11582.4
+    },
+    "4d22c8": {
+        "callsign": "RYR10JC ",
+        "country": "Malta",
+        "velocity": 71.55,
+        "geo_altitude": 266.7
+    },
+    "4d22c3": {
+        "callsign": "RYR4DU  ",
+        "country": "Malta",
+        "velocity": 3.09,
+        "geo_altitude": null
+    },
+    "3472d4": {
+        "callsign": "DNC3JF  ",
+        "country": "Spain",
+        "velocity": 41.52,
+        "geo_altitude": 594.36
+    },
+    "4cae9b": {
+        "callsign": "RYR98HW ",
+        "country": "Ireland",
+        "velocity": 1.29,
+        "geo_altitude": null
+    },
+    "4cae9c": {
+        "callsign": "RYR72HH ",
+        "country": "Ireland",
+        "velocity": 259.84,
+        "geo_altitude": 10949.94
+    },
+    "3c5999": {
+        "callsign": "LUA546K ",
+        "country": "Germany",
+        "velocity": 3.86,
+        "geo_altitude": null
+    },
+    "4cae9f": {
+        "callsign": "RYR29XE ",
+        "country": "Ireland",
+        "velocity": 225.04,
+        "geo_altitude": 5775.96
+    },
+    "348399": {
+        "callsign": "ECOLR   ",
+        "country": "Spain",
+        "velocity": 57.97,
+        "geo_altitude": 2446.02
+    },
+    "348397": {
+        "callsign": "ECOLP   ",
+        "country": "Spain",
+        "velocity": 59.27,
+        "geo_altitude": 1653.54
+    },
+    "348396": {
+        "callsign": "ECOLO   ",
+        "country": "Spain",
+        "velocity": 31.82,
+        "geo_altitude": 198.12
+    },
+    "4d2302": {
+        "callsign": "RYR8EC  ",
+        "country": "Malta",
+        "velocity": 194.32,
+        "geo_altitude": 11833.86
+    },
+    "3c56ed": {
+        "callsign": "EWG7SV  ",
+        "country": "Germany",
+        "velocity": 129.44,
+        "geo_altitude": 1706.88
+    },
+    "4d234b": {
+        "callsign": "RYR49VU ",
+        "country": "Malta",
+        "velocity": 215.81,
+        "geo_altitude": 11925.3
+    },
+    "4d2369": {
+        "callsign": "RYR3JL  ",
+        "country": "Malta",
+        "velocity": 214.33,
+        "geo_altitude": 11049
+    },
+    "4d2361": {
+        "callsign": "VJT607  ",
+        "country": "Malta",
+        "velocity": 243.26,
+        "geo_altitude": 12725.4
+    },
+    "4cace0": {
+        "callsign": "RYR6041 ",
+        "country": "Ireland",
+        "velocity": 222.31,
+        "geo_altitude": 10690.86
+    },
+    "348342": {
+        "callsign": "WPT3161 ",
+        "country": "Spain",
+        "velocity": 240.13,
+        "geo_altitude": 11689.08
+    },
+    "4d2346": {
+        "callsign": "RYR8TE  ",
+        "country": "Malta",
+        "velocity": 239.14,
+        "geo_altitude": 11590.02
+    },
+    "4d2340": {
+        "callsign": "DAH1072 ",
+        "country": "Malta",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "4d236b": {
+        "callsign": "RYR672G ",
+        "country": "Malta",
+        "velocity": 269.93,
+        "geo_altitude": 11460.48
+    },
+    "348308": {
+        "callsign": "DNC1NC  ",
+        "country": "Spain",
+        "velocity": 43.81,
+        "geo_altitude": 1729.74
+    },
+    "348306": {
+        "callsign": "IBB28YW ",
+        "country": "Spain",
+        "velocity": 255.62,
+        "geo_altitude": 10088.88
+    },
+    "348307": {
+        "callsign": "IBB37TC ",
+        "country": "Spain",
+        "velocity": 264.84,
+        "geo_altitude": 12108.18
+    },
+    "348305": {
+        "callsign": "IBB533Y ",
+        "country": "Spain",
+        "velocity": 250.43,
+        "geo_altitude": 9624.06
+    },
+    "348302": {
+        "callsign": "FBY64E  ",
+        "country": "Spain",
+        "velocity": 43.01,
+        "geo_altitude": 1310.64
+    },
+    "4d2382": {
+        "callsign": "RYR7SE  ",
+        "country": "Malta",
+        "velocity": 195.07,
+        "geo_altitude": 12435.84
+    },
+    "348401": {
+        "callsign": "ANE1073 ",
+        "country": "Spain",
+        "velocity": 2.31,
+        "geo_altitude": null
+    },
+    "4d228f": {
+        "callsign": "RYR58SW ",
+        "country": "Malta",
+        "velocity": 217.28,
+        "geo_altitude": 11917.68
+    },
+    "4d228b": {
+        "callsign": "RYR827R ",
+        "country": "Malta",
+        "velocity": 99.17,
+        "geo_altitude": 640.08
+    },
+    "4cad28": {
+        "callsign": "RYR15EP ",
+        "country": "Ireland",
+        "velocity": 126.58,
+        "geo_altitude": 2042.16
+    },
+    "4c01e1": {
+        "callsign": "ASL17H  ",
+        "country": "Serbia",
+        "velocity": 237.6,
+        "geo_altitude": 12214.86
+    },
+    "4cad42": {
+        "callsign": "SAS1817 ",
+        "country": "Ireland",
+        "velocity": 207.21,
+        "geo_altitude": 12519.66
+    },
+    "3482d8": {
+        "callsign": "VLG5VJ  ",
+        "country": "Spain",
+        "velocity": 182.23,
+        "geo_altitude": 5120.64
+    },
+    "4cad3e": {
+        "callsign": "RYR245B ",
+        "country": "Ireland",
+        "velocity": 236.94,
+        "geo_altitude": 11582.4
+    },
+    "44eaae": {
+        "callsign": "AAB45Z  ",
+        "country": "Belgium",
+        "velocity": 219.99,
+        "geo_altitude": 12816.84
+    },
+    "4d21ed": {
+        "callsign": "RYR9VZ  ",
+        "country": "Malta",
+        "velocity": 202.93,
+        "geo_altitude": 5013.96
+    },
+    "4d21ee": {
+        "callsign": "RYR57ZZ ",
+        "country": "Malta",
+        "velocity": 74.05,
+        "geo_altitude": 472.44
+    },
+    "4cad94": {
+        "callsign": "SAS1571 ",
+        "country": "Ireland",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "485a86": {
+        "callsign": "JAF9XK  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 207.78,
+        "geo_altitude": 12512.04
+    },
+    "485a84": {
+        "callsign": "TFL90G  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 263.31,
+        "geo_altitude": 12169.14
+    },
+    "4d2235": {
+        "callsign": "RYR32ED ",
+        "country": "Malta",
+        "velocity": 266.29,
+        "geo_altitude": 11430
+    },
+    "3986e2": {
+        "callsign": "AFR6026 ",
+        "country": "France",
+        "velocity": 17.49,
+        "geo_altitude": null
+    },
+    "34714d": {
+        "callsign": "VOE81UT ",
+        "country": "Spain",
+        "velocity": 224.93,
+        "geo_altitude": 9342.12
+    },
+    "4d221d": {
+        "callsign": "RYR9LC  ",
+        "country": "Malta",
+        "velocity": 197.72,
+        "geo_altitude": 11864.34
+    },
+    "4d2246": {
+        "callsign": "RYR7WW  ",
+        "country": "Malta",
+        "velocity": 125.01,
+        "geo_altitude": 2179.32
+    },
+    "4d223a": {
+        "callsign": "RYR7LC  ",
+        "country": "Malta",
+        "velocity": 258.57,
+        "geo_altitude": 12199.62
+    },
+    "4d2241": {
+        "callsign": "RYR227G ",
+        "country": "Malta",
+        "velocity": 6.94,
+        "geo_altitude": null
+    },
+    "4d2217": {
+        "callsign": "RYR18PG ",
+        "country": "Malta",
+        "velocity": 220.03,
+        "geo_altitude": 11925.3
+    },
+    "4d2218": {
+        "callsign": "RYR23ZR ",
+        "country": "Malta",
+        "velocity": 242.8,
+        "geo_altitude": 12199.62
+    },
+    "4d2214": {
+        "callsign": "RYR4LN  ",
+        "country": "Malta",
+        "velocity": 223.41,
+        "geo_altitude": 12214.86
+    },
+    "4d2219": {
+        "callsign": "RYR34JJ ",
+        "country": "Malta",
+        "velocity": 216.07,
+        "geo_altitude": 11940.54
+    },
+    "485a35": {
+        "callsign": "KLM28W  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 260.99,
+        "geo_altitude": 10927.08
+    },
+    "4d2225": {
+        "callsign": "RYR1UG  ",
+        "country": "Malta",
+        "velocity": 227.24,
+        "geo_altitude": 11590.02
+    },
+    "4d220a": {
+        "callsign": "RYR15FK ",
+        "country": "Malta",
+        "velocity": 216.3,
+        "geo_altitude": 10043.16
+    },
+    "4d220c": {
+        "callsign": "RYR47NY ",
+        "country": "Malta",
+        "velocity": 2.57,
+        "geo_altitude": null
+    },
+    "4d2220": {
+        "callsign": "RYR7FL  ",
+        "country": "Malta",
+        "velocity": 244.9,
+        "geo_altitude": 12245.34
+    },
+    "4d226b": {
+        "callsign": "RYR36JX ",
+        "country": "Malta",
+        "velocity": 0.9,
+        "geo_altitude": null
+    },
+    "4d226e": {
+        "callsign": "RYR5SR  ",
+        "country": "Malta",
+        "velocity": 77.38,
+        "geo_altitude": 274.32
+    },
+    "4d225f": {
+        "callsign": "RYR161N ",
+        "country": "Malta",
+        "velocity": 192.68,
+        "geo_altitude": 4541.52
+    },
+    "4d2273": {
+        "callsign": "RYR5885 ",
+        "country": "Malta",
+        "velocity": 220.31,
+        "geo_altitude": 11932.92
+    },
+    "4d2274": {
+        "callsign": "RYR78GP ",
+        "country": "Malta",
+        "velocity": 265.94,
+        "geo_altitude": 11452.86
+    },
+    "4d2270": {
+        "callsign": "RYR78HC ",
+        "country": "Malta",
+        "velocity": 230.07,
+        "geo_altitude": 8549.64
+    },
+    "4d2289": {
+        "callsign": "RYR90TA ",
+        "country": "Malta",
+        "velocity": 219.89,
+        "geo_altitude": 11917.68
+    },
+    "4d227b": {
+        "callsign": "RYR9911 ",
+        "country": "Malta",
+        "velocity": 230.72,
+        "geo_altitude": 12199.62
+    },
+    "4d2258": {
+        "callsign": "RYR7HG  ",
+        "country": "Malta",
+        "velocity": 198.42,
+        "geo_altitude": 11757.66
+    },
+    "4d2268": {
+        "callsign": "RYR45CC ",
+        "country": "Malta",
+        "velocity": 141.53,
+        "geo_altitude": 2286
+    },
+    "4d225a": {
+        "callsign": "RYR4EY  ",
+        "country": "Malta",
+        "velocity": 218.16,
+        "geo_altitude": 11940.54
+    },
+    "4d225c": {
+        "callsign": "RYR99TR ",
+        "country": "Malta",
+        "velocity": 263.99,
+        "geo_altitude": 11483.34
+    },
+    "4d2264": {
+        "callsign": "RYR24DD ",
+        "country": "Malta",
+        "velocity": 1.03,
+        "geo_altitude": null
+    },
+    "4d2265": {
+        "callsign": "RYR8KY  ",
+        "country": "Malta",
+        "velocity": 227.57,
+        "geo_altitude": 6370.32
+    },
+    "4d2260": {
+        "callsign": "RYR20SB ",
+        "country": "Malta",
+        "velocity": 212.67,
+        "geo_altitude": 11879.58
+    },
+    "348516": {
+        "callsign": "SWT626P ",
+        "country": "Spain",
+        "velocity": 211.6,
+        "geo_altitude": 11285.22
+    },
+    "4071d9": {
+        "callsign": "EZY13DB ",
+        "country": "United Kingdom",
+        "velocity": 220.77,
+        "geo_altitude": 10736.58
+    },
+    "348508": {
+        "callsign": "VLG99EY ",
+        "country": "Spain",
+        "velocity": 1.29,
+        "geo_altitude": null
+    },
+    "348509": {
+        "callsign": "VLG2EL  ",
+        "country": "Spain",
+        "velocity": 140.85,
+        "geo_altitude": 1508.76
+    },
+    "493282": {
+        "callsign": "NJE309Q ",
+        "country": "Portugal",
+        "velocity": 105.89,
+        "geo_altitude": 1165.86
+    },
+    "71002a": {
+        "callsign": "SVA375  ",
+        "country": "Saudi Arabia",
+        "velocity": 238.61,
+        "geo_altitude": 12260.58
+    },
+    "4d20b1": {
+        "callsign": "WMT1400 ",
+        "country": "Malta",
+        "velocity": 226.39,
+        "geo_altitude": 11323.32
+    },
+    "4cac1f": {
+        "callsign": "RYR1GG  ",
+        "country": "Ireland",
+        "velocity": 184.52,
+        "geo_altitude": 11818.62
+    },
+    "4d20e3": {
+        "callsign": "VJT534  ",
+        "country": "Malta",
+        "velocity": 228.31,
+        "geo_altitude": 12854.94
+    },
+    "4cac85": {
+        "callsign": "RYR637V ",
+        "country": "Ireland",
+        "velocity": 82.36,
+        "geo_altitude": 632.46
+    },
+    "4cac8e": {
+        "callsign": "SAS2813 ",
+        "country": "Ireland",
+        "velocity": 200.7,
+        "geo_altitude": 7360.92
+    },
+    "04c159": {
+        "callsign": "KQA114  ",
+        "country": "Kenya",
+        "velocity": 239.45,
+        "geo_altitude": 12839.7
+    },
+    "3483c3": {
+        "callsign": "AYR1MC  ",
+        "country": "Spain",
+        "velocity": 50.54,
+        "geo_altitude": 190.5
+    },
+    "3483c1": {
+        "callsign": "ECOLT   ",
+        "country": "Spain",
+        "velocity": 56.95,
+        "geo_altitude": 982.98
+    },
+    "4d20bc": {
+        "callsign": "WMT5EF  ",
+        "country": "Malta",
+        "velocity": 134.92,
+        "geo_altitude": 2735.58
+    },
+    "40837b": {
+        "callsign": "EXS3807 ",
+        "country": "United Kingdom",
+        "velocity": 190.11,
+        "geo_altitude": 11818.62
+    },
+    "3a27ff": {
+        "callsign": "SECUC   ",
+        "country": "France",
+        "velocity": 1.8,
+        "geo_altitude": null
+    },
+    "4d2153": {
+        "callsign": "CXI96TY ",
+        "country": "Malta",
+        "velocity": 203.27,
+        "geo_altitude": 9448.8
+    },
+    "3c54a1": {
+        "callsign": "EWG3PD  ",
+        "country": "Germany",
+        "velocity": 199.43,
+        "geo_altitude": 11231.88
+    },
+    "a2f2fa": {
+        "callsign": "UAL770  ",
+        "country": "United States",
+        "velocity": 5.4,
+        "geo_altitude": null
+    },
+    "3c54a4": {
+        "callsign": "EWG25P  ",
+        "country": "Germany",
+        "velocity": 1.03,
+        "geo_altitude": null
+    },
+    "3c54a2": {
+        "callsign": "EWG7QR  ",
+        "country": "Germany",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3cda69": {
+        "callsign": "ECA4AB  ",
+        "country": "Germany",
+        "velocity": 209.74,
+        "geo_altitude": 13152.12
+    },
+    "4d2094": {
+        "callsign": "AXY268U ",
+        "country": "Malta",
+        "velocity": 1.29,
+        "geo_altitude": null
+    },
+    "3480c7": {
+        "callsign": "FYS45GQ ",
+        "country": "Spain",
+        "velocity": 32.44,
+        "geo_altitude": 495.3
+    },
+    "3480c3": {
+        "callsign": "IBB66UR ",
+        "country": "Spain",
+        "velocity": 258.85,
+        "geo_altitude": 9890.76
+    },
+    "39856a": {
+        "callsign": "AFR29AT ",
+        "country": "France",
+        "velocity": 195.04,
+        "geo_altitude": 8008.62
+    },
+    "39856b": {
+        "callsign": "AFR93YQ ",
+        "country": "France",
+        "velocity": 266.9,
+        "geo_altitude": 10904.22
+    },
+    "4b194f": {
+        "callsign": "SWR2GX  ",
+        "country": "Switzerland",
+        "velocity": 271.53,
+        "geo_altitude": 8183.88
+    },
+    "4b194c": {
+        "callsign": "SWR82L  ",
+        "country": "Switzerland",
+        "velocity": 212.71,
+        "geo_altitude": 10652.76
+    },
+    "34824f": {
+        "callsign": "DNC2ES  ",
+        "country": "Spain",
+        "velocity": 33.44,
+        "geo_altitude": 586.74
+    },
+    "3c66ba": {
+        "callsign": "OCN2Y   ",
+        "country": "Germany",
+        "velocity": 265.65,
+        "geo_altitude": 11498.58
+    },
+    "3c66e7": {
+        "callsign": "OCN6NH  ",
+        "country": "Germany",
+        "velocity": 155.51,
+        "geo_altitude": 3931.92
+    },
+    "3c66e6": {
+        "callsign": "OCN3RH  ",
+        "country": "Germany",
+        "velocity": 114.42,
+        "geo_altitude": 998.22
+    },
+    "348212": {
+        "callsign": "IBB6075 ",
+        "country": "Spain",
+        "velocity": 184.39,
+        "geo_altitude": 11795.76
+    },
+    "348213": {
+        "callsign": "IBB82TT ",
+        "country": "Spain",
+        "velocity": 260.18,
+        "geo_altitude": 9906
+    },
+    "3c79b7": {
+        "callsign": "CFG2MW  ",
+        "country": "Germany",
+        "velocity": 263.22,
+        "geo_altitude": 10888.98
+    },
+    "348209": {
+        "callsign": "VLG65AB ",
+        "country": "Spain",
+        "velocity": 211.39,
+        "geo_altitude": 9113.52
+    },
+    "348205": {
+        "callsign": "VLG8PG  ",
+        "country": "Spain",
+        "velocity": 68.87,
+        "geo_altitude": 510.54
+    },
+    "348206": {
+        "callsign": "VLG57QD ",
+        "country": "Spain",
+        "velocity": 190.89,
+        "geo_altitude": 6179.82
+    },
+    "348204": {
+        "callsign": "VLG356T ",
+        "country": "Spain",
+        "velocity": 206.02,
+        "geo_altitude": 11902.44
+    },
+    "4082cc": {
+        "callsign": "TOM8HW  ",
+        "country": "United Kingdom",
+        "velocity": 77.55,
+        "geo_altitude": 243.84
+    },
+    "4082cb": {
+        "callsign": "TOM4502 ",
+        "country": "United Kingdom",
+        "velocity": 189.38,
+        "geo_altitude": 11811
+    },
+    "aac6f5": {
+        "callsign": "AVA017  ",
+        "country": "United States",
+        "velocity": 249.86,
+        "geo_altitude": 11986.26
+    },
+    "343213": {
+        "callsign": "ECHZD   ",
+        "country": "Spain",
+        "velocity": 55.92,
+        "geo_altitude": 1615.44
+    },
+    "406900": {
+        "callsign": "EXS149Y ",
+        "country": "United Kingdom",
+        "velocity": 219.68,
+        "geo_altitude": 11788.14
+    },
+    "3811fa": {
+        "callsign": "13294   ",
+        "country": "France",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "471dab": {
+        "callsign": "WMT8154 ",
+        "country": "Hungary",
+        "velocity": 266.67,
+        "geo_altitude": 10988.04
+    },
+    "345646": {
+        "callsign": "VLG7CR  ",
+        "country": "Spain",
+        "velocity": 201.19,
+        "geo_altitude": 11811
+    },
+    "506cae": {
+        "callsign": "VIO001B ",
+        "country": "Slovenia",
+        "velocity": 201.97,
+        "geo_altitude": 7505.7
+    },
+    "34530e": {
+        "callsign": "ANE53GX ",
+        "country": "Spain",
+        "velocity": 168.79,
+        "geo_altitude": 3779.52
+    },
+    "346644": {
+        "callsign": "VOE65ND ",
+        "country": "Spain",
+        "velocity": 226.19,
+        "geo_altitude": 10241.28
+    },
+    "3452c9": {
+        "callsign": "VLG3QN  ",
+        "country": "Spain",
+        "velocity": 213.93,
+        "geo_altitude": 9883.14
+    },
+    "4067f7": {
+        "callsign": "TOM704  ",
+        "country": "United Kingdom",
+        "velocity": 241.21,
+        "geo_altitude": 13022.58
+    },
+    "4d02b6": {
+        "callsign": "JFA33L  ",
+        "country": "Luxembourg",
+        "velocity": 3.34,
+        "geo_altitude": null
+    },
+    "4d02c4": {
+        "callsign": "JFA33L  ",
+        "country": "Luxembourg",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3475cb": {
+        "callsign": "ECOCZ4  ",
+        "country": "Spain",
+        "velocity": 49.8,
+        "geo_altitude": 205.74
+    },
+    "89661f": {
+        "callsign": "UAE143  ",
+        "country": "United Arab Emirates",
+        "velocity": 231.24,
+        "geo_altitude": 13129.26
+    },
+    "39a2e0": {
+        "callsign": "DAH2057 ",
+        "country": "France",
+        "velocity": 231.15,
+        "geo_altitude": 12519.66
+    },
+    "34634c": {
+        "callsign": "RSC53MH ",
+        "country": "Spain",
+        "velocity": 114.03,
+        "geo_altitude": 1927.86
+    },
+    "491117": {
+        "callsign": "RVP261  ",
+        "country": "Portugal",
+        "velocity": 54.69,
+        "geo_altitude": 1805.94
+    },
+    "496cb2": {
+        "callsign": "FM077   ",
+        "country": "Portugal",
+        "velocity": 5.66,
+        "geo_altitude": null
+    },
+    "3ce71a": {
+        "callsign": "PAV562  ",
+        "country": "Germany",
+        "velocity": 235.4,
+        "geo_altitude": 10309.86
+    },
+    "508295": {
+        "callsign": "URCIW   ",
+        "country": "Ukraine",
+        "velocity": 38.71,
+        "geo_altitude": 754.38
+    },
+    "49d418": {
+        "callsign": "TVS6P7  ",
+        "country": "Czech Republic",
+        "velocity": 251.02,
+        "geo_altitude": 11369.04
+    },
+    "3d05d4": {
+        "callsign": "IFJ38V  ",
+        "country": "Germany",
+        "velocity": 35.69,
+        "geo_altitude": 205.74
+    },
+    "406b62": {
+        "callsign": "BAW495  ",
+        "country": "United Kingdom",
+        "velocity": 223.06,
+        "geo_altitude": 8564.88
+    },
+    "48c2a3": {
+        "callsign": "RYR21WA ",
+        "country": "Poland",
+        "velocity": 230.12,
+        "geo_altitude": 11917.68
+    },
+    "344692": {
+        "callsign": "VLG40SK ",
+        "country": "Spain",
+        "velocity": 246.84,
+        "geo_altitude": 10797.54
+    },
+    "3432c5": {
+        "callsign": "SWT7774 ",
+        "country": "Spain",
+        "velocity": 106.94,
+        "geo_altitude": 2545.08
+    },
+    "399503": {
+        "callsign": "EVFHFID ",
+        "country": "France",
+        "velocity": 50.51,
+        "geo_altitude": 777.24
+    },
+    "0a009a": {
+        "callsign": "DAH6051 ",
+        "country": "Algeria",
+        "velocity": 125.92,
+        "geo_altitude": 2141.22
+    },
+    "0a007c": {
+        "callsign": "",
+        "country": "Algeria",
+        "velocity": 76.17,
+        "geo_altitude": 281.94
+    },
+    "4080de": {
+        "callsign": "EXS979  ",
+        "country": "United Kingdom",
+        "velocity": 201.91,
+        "geo_altitude": 11163.3
+    },
+    "4ca8bd": {
+        "callsign": "EIN886  ",
+        "country": "Ireland",
+        "velocity": 204,
+        "geo_altitude": 11719.56
+    },
+    "3c0aca": {
+        "callsign": "CFG7VH  ",
+        "country": "Germany",
+        "velocity": 257.07,
+        "geo_altitude": 11338.56
+    },
+    "4ca6fb": {
+        "callsign": "RYR9964 ",
+        "country": "Ireland",
+        "velocity": 259.71,
+        "geo_altitude": 10949.94
+    },
+    "491d99": {
+        "callsign": "NJE020T ",
+        "country": "Portugal",
+        "velocity": 186.26,
+        "geo_altitude": 3962.4
+    },
+    "48ea01": {
+        "callsign": "ENT5137 ",
+        "country": "Poland",
+        "velocity": 219.73,
+        "geo_altitude": 11292.84
+    },
+    "4ca702": {
+        "callsign": "RYR3628 ",
+        "country": "Ireland",
+        "velocity": 0.39,
+        "geo_altitude": null
+    },
+    "34744d": {
+        "callsign": "VLG3XD  ",
+        "country": "Spain",
+        "velocity": 215.88,
+        "geo_altitude": 5311.14
+    },
+    "3c496e": {
+        "callsign": "TUI7AH  ",
+        "country": "Germany",
+        "velocity": 227.68,
+        "geo_altitude": 9395.46
+    },
+    "4cafb4": {
+        "callsign": "RYR5LZ  ",
+        "country": "Ireland",
+        "velocity": 243.32,
+        "geo_altitude": 9022.08
+    },
+    "4076b1": {
+        "callsign": "TOM8JN  ",
+        "country": "United Kingdom",
+        "velocity": 200.58,
+        "geo_altitude": 11049
+    },
+    "3964e8": {
+        "callsign": "TVF53GX ",
+        "country": "France",
+        "velocity": 220.45,
+        "geo_altitude": 7078.98
+    },
+    "4d24d2": {
+        "callsign": "DAH4039 ",
+        "country": "",
+        "velocity": 209.1,
+        "geo_altitude": 8046.72
+    },
+    "4d2507": {
+        "callsign": "EWG92K  ",
+        "country": "",
+        "velocity": 250.09,
+        "geo_altitude": 10492.74
+    },
+    "348611": {
+        "callsign": "ECORO   ",
+        "country": "Spain",
+        "velocity": 59.47,
+        "geo_altitude": 1958.34
+    },
+    "4d243c": {
+        "callsign": "VJT451  ",
+        "country": "",
+        "velocity": 220.15,
+        "geo_altitude": 14257.02
+    },
+    "4cae6b": {
+        "callsign": "RYR4ZZ  ",
+        "country": "Ireland",
+        "velocity": 200.2,
+        "geo_altitude": 11742.42
+    },
+    "4cacdf": {
+        "callsign": "RYR95SN ",
+        "country": "Ireland",
+        "velocity": 194.54,
+        "geo_altitude": 11765.28
+    },
+    "4d21c2": {
+        "callsign": "AXY963T ",
+        "country": "Malta",
+        "velocity": 243.04,
+        "geo_altitude": 7757.16
+    },
+    "4d21cc": {
+        "callsign": "GSM650  ",
+        "country": "Malta",
+        "velocity": 262.19,
+        "geo_altitude": 13746.48
+    },
+    "096023": {
+        "callsign": "TCV607  ",
+        "country": "Cape Verde",
+        "velocity": 224,
+        "geo_altitude": 12344.4
+    },
+    "348506": {
+        "callsign": "GES671Q ",
+        "country": "Spain",
+        "velocity": 20.06,
+        "geo_altitude": null
+    },
+    "4d201e": {
+        "callsign": "WMT1UF  ",
+        "country": "Malta",
+        "velocity": 222.15,
+        "geo_altitude": 11308.08
+    },
+    "51116f": {
+        "callsign": "MBU6JB  ",
+        "country": "Estonia",
+        "velocity": 239.65,
+        "geo_altitude": 9159.24
+    },
+    "4aca85": {
+        "callsign": "NSZ5721 ",
+        "country": "Sweden",
+        "velocity": 208.09,
+        "geo_altitude": 11704.32
+    },
+    "3443d1": {
+        "callsign": "VLG673X ",
+        "country": "Spain",
+        "velocity": 7.46,
+        "geo_altitude": null
+    },
+    "471d5c": {
+        "callsign": "WZZ5757 ",
+        "country": "Hungary",
+        "velocity": 208.73,
+        "geo_altitude": 11308.08
+    },
+    "345614": {
+        "callsign": "VLG75CT ",
+        "country": "Spain",
+        "velocity": 12.35,
+        "geo_altitude": null
+    },
+    "4066b9": {
+        "callsign": "EXS62TY ",
+        "country": "United Kingdom",
+        "velocity": 230.15,
+        "geo_altitude": 11917.68
+    },
+    "4bb205": {
+        "callsign": "THY5FK  ",
+        "country": "Turkey",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "0201ac": {
+        "callsign": "CNKAM   ",
+        "country": "Morocco",
+        "velocity": 281.6,
+        "geo_altitude": 10949.94
+    },
+    "49d528": {
+        "callsign": "WEY42G  ",
+        "country": "Czech Republic",
+        "velocity": 44.5,
+        "geo_altitude": 373.38
+    },
+    "407fae": {
+        "callsign": "TOM61A  ",
+        "country": "United Kingdom",
+        "velocity": 180.86,
+        "geo_altitude": 6156.96
+    },
+    "4ca2c1": {
+        "callsign": "RYR34CN ",
+        "country": "Ireland",
+        "velocity": 211.37,
+        "geo_altitude": 6918.96
+    },
+    "48e9f3": {
+        "callsign": "RYR9941 ",
+        "country": "Poland",
+        "velocity": 222.78,
+        "geo_altitude": 7947.66
+    },
+    "4ca259": {
+        "callsign": "RYR734J ",
+        "country": "Ireland",
+        "velocity": 221.45,
+        "geo_altitude": 5996.94
+    },
+    "503d00": {
+        "callsign": "MLH8164 ",
+        "country": "Lithuania",
+        "velocity": 5.66,
+        "geo_altitude": null
+    },
+    "39ceb0": {
+        "callsign": "TVF12XQ ",
+        "country": "France",
+        "velocity": 228.46,
+        "geo_altitude": 12527.28
+    },
+    "40104f": {
+        "callsign": "EXS38A  ",
+        "country": "United Kingdom",
+        "velocity": 211.67,
+        "geo_altitude": 10660.38
+    },
+    "342398": {
+        "callsign": "VLG35XX ",
+        "country": "Spain",
+        "velocity": 164.04,
+        "geo_altitude": 4175.76
+    },
+    "344646": {
+        "callsign": "VLG48QM ",
+        "country": "Spain",
+        "velocity": 199.01,
+        "geo_altitude": 7299.96
+    },
+    "4952c4": {
+        "callsign": "TAP1863 ",
+        "country": "Portugal",
+        "velocity": 5.66,
+        "geo_altitude": null
+    },
+    "4952c8": {
+        "callsign": "TAP1542 ",
+        "country": "Portugal",
+        "velocity": 272.47,
+        "geo_altitude": 12085.32
+    },
+    "39d30c": {
+        "callsign": "TVF28LP ",
+        "country": "France",
+        "velocity": 257.52,
+        "geo_altitude": 10347.96
+    },
+    "3c6497": {
+        "callsign": "DLH69H  ",
+        "country": "Germany",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "49514f": {
+        "callsign": "TAP15CV ",
+        "country": "Portugal",
+        "velocity": 270.23,
+        "geo_altitude": 11506.2
+    },
+    "4ca9aa": {
+        "callsign": "RYR4503 ",
+        "country": "Ireland",
+        "velocity": 206.93,
+        "geo_altitude": 11155.68
+    },
+    "4ca852": {
+        "callsign": "RYR4AD  ",
+        "country": "Ireland",
+        "velocity": 39.1,
+        "geo_altitude": null
+    },
+    "4ca80b": {
+        "callsign": "RYR63FM ",
+        "country": "Ireland",
+        "velocity": 219.72,
+        "geo_altitude": 8488.68
+    },
+    "34620b": {
+        "callsign": "IBE08FA ",
+        "country": "Spain",
+        "velocity": 203.4,
+        "geo_altitude": 11887.2
+    },
+    "3474da": {
+        "callsign": "IBS16CR ",
+        "country": "Spain",
+        "velocity": 209.94,
+        "geo_altitude": 11300.46
+    },
+    "4b1a23": {
+        "callsign": "EJU49VB ",
+        "country": "Switzerland",
+        "velocity": 202.92,
+        "geo_altitude": 11894.82
+    },
+    "346316": {
+        "callsign": "IBE07ZB ",
+        "country": "Spain",
+        "velocity": 196.33,
+        "geo_altitude": 11254.74
+    },
+    "34604c": {
+        "callsign": "ANE43CP ",
+        "country": "Spain",
+        "velocity": 174.12,
+        "geo_altitude": 3634.74
+    },
+    "4cae63": {
+        "callsign": "RYR7418 ",
+        "country": "Ireland",
+        "velocity": 148.17,
+        "geo_altitude": 3025.14
+    },
+    "39b32f": {
+        "callsign": "FHMZP   ",
+        "country": "France",
+        "velocity": 46.99,
+        "geo_altitude": 731.52
+    },
+    "348388": {
+        "callsign": "EAX2V   ",
+        "country": "Spain",
+        "velocity": 51.7,
+        "geo_altitude": 1082.04
+    },
+    "348386": {
+        "callsign": "EAX1WS  ",
+        "country": "Spain",
+        "velocity": 50.58,
+        "geo_altitude": 1082.04
+    },
+    "4d227c": {
+        "callsign": "RYR84SD ",
+        "country": "Malta",
+        "velocity": 233.58,
+        "geo_altitude": 11917.68
+    },
+    "400a25": {
+        "callsign": "BAW43M  ",
+        "country": "United Kingdom",
+        "velocity": 138.53,
+        "geo_altitude": 3916.68
+    },
+    "493033": {
+        "callsign": "NJE152H ",
+        "country": "Portugal",
+        "velocity": 98.18,
+        "geo_altitude": 2057.4
+    },
+    "3455da": {
+        "callsign": "VOE66SP ",
+        "country": "Spain",
+        "velocity": 202.22,
+        "geo_altitude": 6454.14
+    },
+    "346692": {
+        "callsign": "VLG5QQ  ",
+        "country": "Spain",
+        "velocity": 203.84,
+        "geo_altitude": 7299.96
+    },
+    "4ab821": {
+        "callsign": "NSZ2EM  ",
+        "country": "Sweden",
+        "velocity": 195.82,
+        "geo_altitude": 11727.18
+    },
+    "4ac9ef": {
+        "callsign": "SAS4651 ",
+        "country": "Sweden",
+        "velocity": 210.3,
+        "geo_altitude": 12489.18
+    },
+    "347695": {
+        "callsign": "VLG9TB  ",
+        "country": "Spain",
+        "velocity": 201.15,
+        "geo_altitude": 11910.06
+    },
+    "496c27": {
+        "callsign": "FM005   ",
+        "country": "Portugal",
+        "velocity": 2.31,
+        "geo_altitude": null
+    },
+    "502d58": {
+        "callsign": "BEL4AR  ",
+        "country": "Latvia",
+        "velocity": 226.35,
+        "geo_altitude": 11902.44
+    },
+    "3434c9": {
+        "callsign": "HRN126  ",
+        "country": "Spain",
+        "velocity": 96.45,
+        "geo_altitude": 1988.82
+    },
+    "48c12d": {
+        "callsign": "RYR46JP ",
+        "country": "Poland",
+        "velocity": 236.41,
+        "geo_altitude": 11910.06
+    },
+    "4acaa2": {
+        "callsign": "SAS4657 ",
+        "country": "Sweden",
+        "velocity": 223.98,
+        "geo_altitude": 12527.28
+    },
+    "3c64aa": {
+        "callsign": "DLH98Y  ",
+        "country": "Germany",
+        "velocity": 225.54,
+        "geo_altitude": 5669.28
+    },
+    "3c7984": {
+        "callsign": "CFG8CW  ",
+        "country": "Germany",
+        "velocity": 237.51,
+        "geo_altitude": 11269.98
+    },
+    "390988": {
+        "callsign": "FGCMI   ",
+        "country": "France",
+        "velocity": 43.48,
+        "geo_altitude": 1508.76
+    },
+    "45d1f4": {
+        "callsign": "FHUBC   ",
+        "country": "Denmark",
+        "velocity": 48.79,
+        "geo_altitude": 1181.1
+    },
+    "440a9e": {
+        "callsign": "AOJ75L  ",
+        "country": "Austria",
+        "velocity": 221.68,
+        "geo_altitude": 11269.98
+    },
+    "347542": {
+        "callsign": "AEP5BT  ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3964f8": {
+        "callsign": "TVF47SN ",
+        "country": "France",
+        "velocity": 196.37,
+        "geo_altitude": 10622.28
+    },
+    "4d2190": {
+        "callsign": "DAH1006 ",
+        "country": "Malta",
+        "velocity": 102.19,
+        "geo_altitude": 1234.44
+    },
+    "348197": {
+        "callsign": "OAR7IS  ",
+        "country": "Spain",
+        "velocity": 44.78,
+        "geo_altitude": 419.1
+    },
+    "392da5": {
+        "callsign": "TJT78NL ",
+        "country": "France",
+        "velocity": 122.89,
+        "geo_altitude": 5410.2
+    },
+    "4caa5c": {
+        "callsign": "RYR4DG  ",
+        "country": "Ireland",
+        "velocity": 213.06,
+        "geo_altitude": 11765.28
+    },
+    "4400f3": {
+        "callsign": "EJU59TY ",
+        "country": "Austria",
+        "velocity": 185.11,
+        "geo_altitude": 5684.52
+    },
+    "471f86": {
+        "callsign": "WMT8723 ",
+        "country": "Hungary",
+        "velocity": 83.75,
+        "geo_altitude": 1325.88
+    },
+    "471f35": {
+        "callsign": "WZZ1919 ",
+        "country": "Hungary",
+        "velocity": 223.52,
+        "geo_altitude": 11925.3
+    },
+    "34558d": {
+        "callsign": "IBB1VP  ",
+        "country": "Spain",
+        "velocity": 132.12,
+        "geo_altitude": 5173.98
+    },
+    "506ca5": {
+        "callsign": "RMB3    ",
+        "country": "Slovenia",
+        "velocity": 224.76,
+        "geo_altitude": 12512.04
+    },
+    "34250a": {
+        "callsign": "IBE05EM ",
+        "country": "Spain",
+        "velocity": 124.6,
+        "geo_altitude": 1981.2
+    },
+    "4008ae": {
+        "callsign": "BAW451  ",
+        "country": "United Kingdom",
+        "velocity": 5.4,
+        "geo_altitude": null
+    },
+    "400afd": {
+        "callsign": "EFW26BF ",
+        "country": "United Kingdom",
+        "velocity": 212.06,
+        "geo_altitude": 11148.06
+    },
+    "39880e": {
+        "callsign": "EVFHCAO ",
+        "country": "France",
+        "velocity": 13.28,
+        "geo_altitude": 335.28
+    },
+    "4d2427": {
+        "callsign": "WZZ477  ",
+        "country": "",
+        "velocity": 226.74,
+        "geo_altitude": 11285.22
+    },
+    "348383": {
+        "callsign": "IBB62SZ ",
+        "country": "Spain",
+        "velocity": 271.89,
+        "geo_altitude": 12138.66
+    },
+    "4d2124": {
+        "callsign": "HAT5052 ",
+        "country": "Malta",
+        "velocity": 172.32,
+        "geo_altitude": 4320.54
+    },
+    "47873f": {
+        "callsign": "NOZ1792 ",
+        "country": "Norway",
+        "velocity": 222.48,
+        "geo_altitude": 12519.66
+    },
+    "3465d9": {
+        "callsign": "VOE8YV  ",
+        "country": "Spain",
+        "velocity": 9.26,
+        "geo_altitude": null
+    },
+    "896571": {
+        "callsign": "AUH06   ",
+        "country": "United Arab Emirates",
+        "velocity": 229.16,
+        "geo_altitude": 6499.86
+    },
+    "44d1a5": {
+        "callsign": "JAF2JW  ",
+        "country": "Belgium",
+        "velocity": 212.38,
+        "geo_altitude": 12489.18
+    },
+    "406d70": {
+        "callsign": "TOM19N  ",
+        "country": "United Kingdom",
+        "velocity": 283.29,
+        "geo_altitude": 12710.16
+    },
+    "3b7b39": {
+        "callsign": "MILAN80 ",
+        "country": "France",
+        "velocity": 110,
+        "geo_altitude": 922.02
+    },
+    "4841a5": {
+        "callsign": "TRA78T  ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 229.53,
+        "geo_altitude": 11902.44
+    },
+    "346146": {
+        "callsign": "IBE0311 ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "3460cb": {
+        "callsign": "MEECMUP ",
+        "country": "Spain",
+        "velocity": 89.73,
+        "geo_altitude": 2804.16
+    },
+    "3ca9a5": {
+        "callsign": "AZE414  ",
+        "country": "Germany",
+        "velocity": 151.25,
+        "geo_altitude": 3162.3
+    },
+    "4cadbb": {
+        "callsign": "RYR80FZ ",
+        "country": "Ireland",
+        "velocity": 217.42,
+        "geo_altitude": 11254.74
+    },
+    "4cadf6": {
+        "callsign": "RYR2GR  ",
+        "country": "Ireland",
+        "velocity": 264.33,
+        "geo_altitude": 12199.62
+    },
+    "348203": {
+        "callsign": "VLG14JZ ",
+        "country": "Spain",
+        "velocity": 2.06,
+        "geo_altitude": null
+    },
+    "344498": {
+        "callsign": "IBS1581 ",
+        "country": "Spain",
+        "velocity": 199.91,
+        "geo_altitude": 11239.5
+    },
+    "3451ca": {
+        "callsign": "RSC6MF  ",
+        "country": "Spain",
+        "velocity": 99.77,
+        "geo_altitude": 2636.52
+    },
+    "345042": {
+        "callsign": "VLG2HL  ",
+        "country": "Spain",
+        "velocity": 0,
+        "geo_altitude": null
+    },
+    "4ba9c8": {
+        "callsign": "THY9DC  ",
+        "country": "Turkey",
+        "velocity": 8.75,
+        "geo_altitude": null
+    },
+    "4ca226": {
+        "callsign": "RYR96DK ",
+        "country": "Ireland",
+        "velocity": 126.08,
+        "geo_altitude": 1661.16
+    },
+    "344696": {
+        "callsign": "VLG3HA  ",
+        "country": "Spain",
+        "velocity": 10.29,
+        "geo_altitude": null
+    },
+    "39e68c": {
+        "callsign": "AFR53AC ",
+        "country": "France",
+        "velocity": 205.17,
+        "geo_altitude": 11871.96
+    },
+    "44d2aa": {
+        "callsign": "JAF61K  ",
+        "country": "Belgium",
+        "velocity": 230.3,
+        "geo_altitude": 8564.88
+    },
+    "4853d3": {
+        "callsign": "TRA6513 ",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 236.74,
+        "geo_altitude": 12512.04
+    },
+    "3c56ef": {
+        "callsign": "EWG18C  ",
+        "country": "Germany",
+        "velocity": 230.5,
+        "geo_altitude": 12329.16
+    },
+    "4d20d9": {
+        "callsign": "VJT426  ",
+        "country": "Malta",
+        "velocity": 228.94,
+        "geo_altitude": 14340.84
+    },
+    "348190": {
+        "callsign": "OARIQ6  ",
+        "country": "Spain",
+        "velocity": 49.92,
+        "geo_altitude": 1196.34
+    },
+    "344350": {
+        "callsign": "",
+        "country": "Spain",
+        "velocity": 14.4,
+        "geo_altitude": null
+    },
+    "4d00f5": {
+        "callsign": "LGL31PT ",
+        "country": "Luxembourg",
+        "velocity": 202.68,
+        "geo_altitude": 11148.06
+    },
+    "7816a2": {
+        "callsign": "CSH872  ",
+        "country": "China",
+        "velocity": 239.5,
+        "geo_altitude": 6918.96
+    },
+    "440469": {
+        "callsign": "EJU1930 ",
+        "country": "Austria",
+        "velocity": 218.77,
+        "geo_altitude": 10980.42
+    },
+    "344697": {
+        "callsign": "VLG1DE  ",
+        "country": "Spain",
+        "velocity": 233.46,
+        "geo_altitude": 10744.2
+    },
+    "495303": {
+        "callsign": "TAP215  ",
+        "country": "Portugal",
+        "velocity": 1.29,
+        "geo_altitude": null
+    },
+    "4b028f": {
+        "callsign": "SWR4PA  ",
+        "country": "Switzerland",
+        "velocity": 106.08,
+        "geo_altitude": 601.98
+    },
+    "406445": {
+        "callsign": "EZY63YG ",
+        "country": "United Kingdom",
+        "velocity": 220.65,
+        "geo_altitude": 12512.04
+    },
+    "44a826": {
+        "callsign": "JAF3EX  ",
+        "country": "Belgium",
+        "velocity": 256.5,
+        "geo_altitude": 11391.9
+    },
+    "4cae65": {
+        "callsign": "RYR66JU ",
+        "country": "Ireland",
+        "velocity": 0.77,
+        "geo_altitude": null
+    }
+}
