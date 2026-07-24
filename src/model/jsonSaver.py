@@ -19,6 +19,7 @@ class JSONSaver:
 
     def add_aeroplane(self, vacancy:Aeroplane):
         with open(self.file_name, "r", encoding='utf-8') as file:
+            # print(self.file_name)
             aeroplanes = json.load(file)
 
         aeroplanes.update(vacancy.to_dict())

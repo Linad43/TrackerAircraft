@@ -36,6 +36,7 @@ def fetch_aeroplanes(country: str) -> list[Aeroplane]:
     # Сохранение информации в файл
     json_saver = JSONSaver()
     for element in aeroplanes:
+        # print(element)
         json_saver.add_aeroplane(element)
     return aeroplanes
 

@@ -1,3 +1,5 @@
+from typing import Self
+
 from src.model.aeroplaneABC import BaseAeroplane
 
 
@@ -23,7 +25,7 @@ class Aeroplane(BaseAeroplane):
         self.geo_altitude = geo_altitude
 
     @classmethod
-    def cast_to_object_list(cls, aeroplanes: dict) -> list[Aeroplane]:
+    def cast_to_object_list(cls, aeroplanes: dict) -> list[Self]:
         result = []
         for aeroplane in aeroplanes['states']:
             result.append(Aeroplane(
